@@ -1,1 +1,1 @@
-
+Exposure to extreme heat has a range of health consequences including, heat stress and heat stroke, worsening heart disease, and acute kidney injury. Infants and older adults are particularly vulnerable to adverse health effects from heat exposure and are being increasingly exposed to heatwaves, defined as a period of 2 or more days where both the minimum and maximum temperatures are above the 95th percentile of 1986–2005. This indicator tracks the number of heatwave days and the exposure of these vulnerable populations, those under 1 and over 65, to heatwaves.
