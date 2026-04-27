@@ -1,2 +1,3 @@
-# lancet-countdown-indicators
+# About Lancet Countdown
 The Lancet Countdown is an international research collaboration, funded by Wellcome and based at UCL. It brings together over 300 researchers worldwide to ensure health is central to climate action and to inform policies that protect and improve population health.
+The Lancet Countdown is made up of individuals and organisations from all over the world, that are committed to changing the way we think about climate change and health. Our Regional Centres in Asia, Africa, Europe, Oceania, Small Island Developing States (SIDS) and Latin America expand on our global data monitoring and analysis, looking at the local and national implications on public health.
