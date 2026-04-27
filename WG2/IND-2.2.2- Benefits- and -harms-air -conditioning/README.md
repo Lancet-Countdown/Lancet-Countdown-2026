@@ -1,1 +1,5 @@
 Heatwaves are among the most immediate and severe of the health impacts of climate change. A variety of adaptation strategies exist, from effective ventilation and building regulations to air conditioning for selected populations. Access to household air conditioning is highly protective against heatwave-related mortality. However, its use also contributes to air pollution, greenhouse gas emissions, increased urban heat island effect, and can widen health inequities and energy poverty. This indicator tracks the coverage of household air conditioning use, premature deaths from ambient PM 2.5 exposure due to electricity use and CO2 emissions due to air conditioning.
+
+
+#DATA SOURCES
+1. Cooling dataset from 2000-2023, 2023. International Energy Agency.
