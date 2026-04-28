@@ -1,8 +1,8 @@
-# Working Group 1 (WG1)
+# Working Group 2 (WG2)
 
 ## Overview
 
-This folder is assigned to **Working Group 1 (WG1)** for the development of indicators contributing to the Lancet Countdown 2026 report.
+This folder is assigned to **Working Group 2 (WG2)** for the development of indicators contributing to the Lancet Countdown 2026 report.
 
 Each indicator should be developed within its own folder following the standard structure.
 
