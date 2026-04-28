@@ -68,11 +68,12 @@ IND-x.x.x-indicator-name/
 
 ## Guidelines for Contributors
 
-- Follow the **indicator folder structure**
+- Follow the **indicator template structure**
 - Ensure consistency across files and folders  
 - Use clear and descriptive commit messages  
 - Keep documentation updated  
-- Coordinate with your Working Group where needed  
+- Coordinate with your Working Group where needed
+- - Authors may create **additional folders** if needed (e.g., for supplementary material), provided they are clearly named and well-organised  
 
 ---
 
