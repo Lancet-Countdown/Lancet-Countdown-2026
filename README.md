@@ -57,61 +57,11 @@ Each indicator follows a standard structure:
 ```text
 IND-x.x.x-indicator-name/
 ├── README.md
-├── metadata.yml
 ├── methods/
 ├── code/
-├── data/
 └── additional-analysis/
    
 ```
-
-
----
-
-## Contribution Workflow
-
-### For Authors
-
-1. You will be assigned to a **Working Group branch** (e.g., `Working-Group-1`)
-2. Navigate to your assigned indicator folder:
-WG1/IND-x.x.x-indicator-name/
-
-3. Edit files directly in your branch or upload updated files
-4. Commit your changes
-
----
-
-### Pull Request Process
-
-- All contributions must be submitted via **Pull Requests (PRs)**
-- PRs should be made from your working group branch to the `main` branch
-- The repository maintainer will:
-- Review changes
-- Request revisions if needed
-- Merge approved updates into `main`
-
----
-
-## Guidelines for Contributors
-
-- Follow the **indicator template structure**
-- Ensure consistency across files and folders  
-- Use clear and descriptive commit messages  
-- Keep documentation updated  
-- Coordinate with your Working Group where needed  
-
----
-
-
-## Purpose of This Repository
-
-This repository is designed to:
-- Support collaborative writing across global teams  
-- Maintain consistency across indicators and working groups  
-- Enable transparent version control and review  
-- Ensure reproducibility of analyses  
-
----
 
 ## Collaboration
 
