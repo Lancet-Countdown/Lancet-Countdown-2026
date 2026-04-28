@@ -57,7 +57,7 @@ Describe:
 - Keep files organised in the correct folders  
 
 ---
-
+🔹 Authors may create **additional folders if needed** (e.g., `keywords/`, `references/`, or other supporting materials), provided they are clearly named and well-organised.
 ## Contact
 
 For questions, contact your Working Group lead, Working Group Fellows or repository maintainer.
