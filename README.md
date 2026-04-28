@@ -62,7 +62,16 @@ IND-x.x.x-indicator-name/
 └── additional-analysis/
    
 ```
+## Purpose of This Repository
 
+This repository is designed to:
+
+- Support collaborative writing across global teams  
+- Maintain consistency across indicators and working groups  
+- Enable transparent version control and review  
+- Ensure reproducibility of analyses  
+
+---
 ## Collaboration
 
 The Lancet Countdown is a global collaboration involving:
