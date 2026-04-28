@@ -4,13 +4,13 @@
 
 The **Lancet Countdown on Climate Change and Health** is an international research collaboration, funded by Wellcome and based at UCL. It brings together over 300 researchers worldwide to ensure health is central to climate action and to inform policies that protect and improve population health.
 <p align="center">
-  <img src="collaborator_pic.jpg" width="700">
+  <img src="collaborator_pic.jpg" width="900">
 </p>
 
 The Lancet Countdown is made up of individuals and organisations from all over the world, that are committed to changing the way we think about climate change and health. Our Regional Centres in Asia, Africa, Europe, Oceania, Small Island Developing States (SIDS) and Latin America expand on our global data monitoring and analysis, looking at the local and national implications on public health.
 
 <p align="center">
-  <img src="regional_pic.jpg" width="700">
+  <img src="regional_pic.jpg" width="900">
 </p>
 
 This repository supports the development of the **Lancet Countdown 2026 Report**, providing a structured and collaborative environment for authors across Working Groups (WGs) to contribute, review, and manage indicator content.
