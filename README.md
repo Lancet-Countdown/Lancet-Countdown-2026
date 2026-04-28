@@ -68,7 +68,7 @@ IND-x.x.x-indicator-name/
 
 ## Guidelines for Contributors
 
-- Follow the **indicator template structure**
+- Follow the **indicator folder structure**
 - Ensure consistency across files and folders  
 - Use clear and descriptive commit messages  
 - Keep documentation updated  
