@@ -20,13 +20,12 @@ Authors can upload:
 ## File Organisation
 
 Please organise files clearly, for example:
-**```text**
+```text
 outputs/
 ├── figure_1.png
 ├── figure_2.png
 ├── table_1.xlsx
 └── additional_results.csv
-**```**
 ---
 ## Guidelines
  
