@@ -73,7 +73,7 @@ IND-x.x.x-indicator-name/
 - Use clear and descriptive commit messages  
 - Keep documentation updated  
 - Coordinate with your Working Group where needed
-- - Authors may create **additional folders** if needed (e.g., for supplementary material), provided they are clearly named and well-organised  
+- Authors may create **additional folders** if needed (e.g., for supplementary material), provided they are clearly named and well-organised  
 
 ---
 
