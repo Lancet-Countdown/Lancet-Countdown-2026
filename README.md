@@ -42,7 +42,7 @@ IND-x.x.x-indicator-name/
 ├── methods/
 ├── code/
 └── additional-analysis/
-
+```
 ## Contribution Workflow
 
 ### For Authors
