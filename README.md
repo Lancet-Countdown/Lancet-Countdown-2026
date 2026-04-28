@@ -42,15 +42,19 @@ The collaboration:
 ## Repository Structure
 
 This repository is organised by **Working Groups (WG1–WG5)** and **Indicators**.
+
+```text
 WG1/
 WG2/
 WG3/
 WG4/
 WG5/
 indicator_template/
-
+```
 
 Each indicator follows a standard structure:
+
+```text
 IND-x.x.x-indicator-name/
 ├── README.md
 ├── metadata.yml
@@ -58,6 +62,8 @@ IND-x.x.x-indicator-name/
 ├── code/
 ├── data/
 └── additional-analysis/
+   
+```
 
 
 ---
