@@ -26,7 +26,7 @@ outputs/
 ├── figure_2.png
 ├── table_1.xlsx
 └── additional_results.csv
----
+```
 ## Guidelines
  
 - Use clear and consistent file names  
