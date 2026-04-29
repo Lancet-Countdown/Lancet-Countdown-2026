@@ -55,7 +55,7 @@ Describe:
 - Extended analysis  
 - Supplementary figures or tables 
 
-
+---
 ## Contribution Workflow For Authors
 -You will be assigned to a Working Group branch (e.g., Working-Group-1)
 -Navigate to your assigned indicator folder:
@@ -65,7 +65,7 @@ Describe:
 - Use clear and concise language  
 - Ensure reproducibility  
 - Keep files organised in the correct folders
-
+---
 ## Pull Request Process
 -All contributions must be submitted via Pull Requests (PRs)
 -PRs should be made from your working group branch to the main branch
