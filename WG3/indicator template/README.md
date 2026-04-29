@@ -59,9 +59,9 @@ Describe:
 ## Contribution Workflow For Authors
 -You will be assigned to a Working Group branch (e.g., Working-Group-1)
 -Navigate to your assigned indicator folder:
---WG1/IND-x.x.x-indicator-name/
---Edit files directly in your branch or upload updated files
---Commit your changes
+-WG1/x.x.x-indicator-name/
+-Edit files directly in your branch or upload updated files
+-Commit your changes
 - Use clear and concise language  
 - Ensure reproducibility  
 - Keep files organised in the correct folders
@@ -70,9 +70,9 @@ Describe:
 -All contributions must be submitted via Pull Requests (PRs)
 -PRs should be made from your working group branch to the main branch
 -The repository maintainer will:
---Review changes
---Request revisions if needed
---Merge approved updates into main
+-Review changes
+-Request revisions if needed
+-Merge approved updates into main
 
 🔹 Authors may create **additional folders if needed** (e.g., `keywords/`, `references/`, or other supporting materials), provided they are clearly named and well-organised.
 ## Contact
