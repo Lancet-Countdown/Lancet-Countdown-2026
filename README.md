@@ -56,7 +56,7 @@ WG5/
 Each indicator follows a standard structure:
 
 ```text
-IND-x.x.x-indicator-name/
+x.x.x-indicator-name/
 ├── README.md
 ├── methods/
 ├── code/
