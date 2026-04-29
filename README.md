@@ -60,7 +60,6 @@ x.x.x-indicator-name/
 ├── README.md
 ├── methods/
 ├── code/
-├── data/
 └── additional-analysis/
 ```
 ---
