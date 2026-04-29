@@ -55,7 +55,7 @@ Describe:
 
 ## Additional Analysis
 - Extended analysis  
-- Supplementary figures  
+- Supplementary figures and tables  
 
 ## Notes for Authors
 
