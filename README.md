@@ -77,7 +77,7 @@ See the `LICENSE` file for details.
 For questions or support, please contact:
 
 - **Dr Muhammad Hasan**  
-  Lancet Countdown  
+  Global Research Fellow Lancet Countdown  
   Institute for Global Health (IGH), University College London (UCL)
 
 - **Dr Marina Romanello**  
