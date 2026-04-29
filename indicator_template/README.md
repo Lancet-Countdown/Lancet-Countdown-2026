@@ -11,7 +11,8 @@ This folder provides the standard structure for all indicators in the Lancet Cou
 - **Indicator Name:** (Full title)  
 - **Working Group:** (WG1–WG5)  
 - **Lead Authors:**  
-- **Contributing Authors:**  
+- **Contributing Authors:**
+- **For more Authors work**
 
 ---
 
