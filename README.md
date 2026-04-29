@@ -1,66 +1,40 @@
-# Lancet Countdown 2026
+# Working Group 3 (WG3)
 
 ## Overview
 
-The **Lancet Countdown on Climate Change and Health** is an international research collaboration, funded by Wellcome and based at UCL. It brings together over 300 researchers worldwide to ensure health is central to climate action and to inform policies that protect and improve population health.
-<p align="center">
-  <img src="collaborator_pic.jpg" width="900">
-</p>
+This folder is assigned to **Working Group 3 (WG3)** for the development of indicators contributing to the Lancet Countdown 2026 report.
 
-The Lancet Countdown is made up of individuals and organisations from all over the world, that are committed to changing the way we think about climate change and health. Our Regional Centres in Asia, Africa, Europe, Oceania, Small Island Developing States (SIDS) and Latin America expand on our global data monitoring and analysis, looking at the local and national implications on public health.
-
-<p align="center">
-  <img src="regional_pic.jpg" width="900">
-</p>
-
-This repository supports the development of the **Lancet Countdown 2026 Report**, providing a structured and collaborative environment for authors across Working Groups (WGs) to contribute, review, and manage indicator content.
+Each indicator should be developed within its own folder following the standard structure.
 
 ---
 
-## What We Do
+## Purpose
 
-The Lancet Countdown works to ensure that health is central to climate action by producing high-quality scientific evidence and analysis.
+This repository space is designed to support:
 
-Our work:
-- Tracks global progress on climate change and health indicators  
-- Provides evidence to inform public policy and decision-making  
-- Identifies health risks and opportunities linked to climate change  
-- Highlights the health co-benefits of climate mitigation and adaptation  
+- Indicator development  
+- Code and methodological documentation  
+- Storage of additional analyses, figures, and tables  
 
-The findings are published annually in *The Lancet*.
+As not all materials can be accommodated within the **main report or appendix**, this repository serves as a **central location** to store all supporting outputs.
 
 ---
 
-## Background
+## What to include here
 
-The Lancet Countdown builds on the 2015 Lancet Commission, which concluded:
+Authors should use this folder to store:
 
-> “Tackling climate change could be the greatest global health opportunity of the 21st century.”
-
-In response, the Lancet Countdown was established in 2016 to create a global monitoring system that tracks the links between climate change and human health.
-
-The collaboration:
-- Is hosted by **University College London (UCL)**  
-- Receives strategic and financial support from the **Wellcome Trust**  
-- Involves nearly **300 researchers worldwide**  
-- Publishes annual reports in *The Lancet*  
+- **Code** used for analysis  
+- **Methods** and documentation  
+- **Additional analyses** beyond the main report  
+- **Figures and tables** generated for the indicator  
+- Supporting data (where appropriate)  
 
 ---
 
-## Repository Structure
+## Folder Structure
 
-This repository is organised by **Working Groups (WG1–WG5)** and **Indicators**.
-
-```text
-WG1/
-WG2/
-WG3/
-WG4/
-WG5/
-indicator_template/
-```
-
-Each indicator follows a standard structure:
+Each indicator should follow this structure:
 
 ```text
 IND-x.x.x-indicator-name/
@@ -68,35 +42,39 @@ IND-x.x.x-indicator-name/
 ├── methods/
 ├── code/
 └── additional-analysis/
-   
 ```
-## Purpose of This Repository
+## Contribution Workflow
 
-This repository is designed to:
+### For Authors
 
-- Support collaborative writing across global teams  
-- Maintain consistency across indicators and working groups  
-- Enable transparent version control and review  
-- Ensure reproducibility of analyses  
-
----
-## Collaboration
-
-The Lancet Countdown is a global collaboration involving:
-- Researchers
-- Policymakers
-- Public health experts
-
-Working together to understand and address the health impacts of climate change.
+1. You will be assigned to a **Working Group branch** (e.g., `Working-Group-1`)
+2. Navigate to your assigned indicator folder:  
+   `WG1/IND-x.x.x-indicator-name/`
+3. Edit files directly in your branch or upload updated files
+4. Commit your changes
 
 ---
 
-## License
+### Pull Request Process
 
-This project is licensed under the MIT License.
+- All contributions must be submitted via **Pull Requests (PRs)**
+- PRs should be made from your working group branch to the `main` branch
+- The repository maintainer will:
+  - Review changes
+  - Request revisions if needed
+  - Merge approved updates into `main`
 
 ---
 
-## Contact
+## Guidelines for Contributors
 
-For questions, please contact the repository maintainer or your Working Group lead.
+- Follow the **indicator template structure**
+- Ensure consistency across files and folders  
+- Use clear and descriptive commit messages  
+- Keep documentation updated  
+- Coordinate with your Working Group where needed
+- Authors may create **additional folders** if needed (e.g., for supplementary material), provided they are clearly named and well-organised  
+
+---
+
+

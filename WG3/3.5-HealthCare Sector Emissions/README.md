@@ -7,7 +7,7 @@ This folder provides the standard structure for all indicators in the Lancet Cou
 
 ## Indicator Information
 
-- **Indicator Number:** (e.g., 3.5)  
+- **Indicator Number:** 3.5  
 - **Indicator Name:** (Full title)  
 - **Working Group:** WG3  
 - **Authors:  Please include your name, website link, and/ or GitHub profile**
@@ -59,7 +59,7 @@ Describe:
 
 ## Notes for Authors
 
-- Follow this structure strictly  
+
 - Use clear and concise language  
 - Ensure reproducibility  
 - Keep files organised in the correct folders  
@@ -69,3 +69,4 @@ Describe:
 ## Contact
 
 For questions, contact your Working Group lead, Working Group Fellows or repository maintainer.
+
