@@ -9,16 +9,15 @@ This folder provides the standard structure for all indicators in the Lancet Cou
 
 - **Indicator Number:** (e.g., 3.5)  
 - **Indicator Name:** (Full title)  
-- **Working Group:** (WG1–WG5)  
-- **Lead Authors:**  
-- **Contributing Authors:**  
+- **Working Group:** WG3  
+- **Authors:  Please include your name, website link, and/ or GitHub profile**
+
 
 ---
 
-## Key Message
+## Brief description of the indicator
 
-Provide a short summary (2–3 sentences) explaining the main finding of this indicator.
-
+Provide a short description (2–3 sentences) of this indicator. Please do not include any headline findings that may conflict with our main report.
 ---
 
 ## Methods
@@ -30,7 +29,7 @@ Describe:
 - Limitations
 - Any Updates 
 
-👉 Detailed methods can also be added in the `/methods` folder.
+👉 Detailed methods can also be added in this `/methods` folder.
 
 ---
 
@@ -38,10 +37,19 @@ Describe:
 ## Code
 
 - Description of scripts used  
-- Software/language (R, Python, etc.)  
-- Instructions to reproduce results  
+- Software/language (R, Python, etc.)
+- ## File Naming Conventions
+- **R:** `filename.R`
+- **Python:** `filename.py`
+- **MATLAB:** `filename.m`
+- **Java:** `ClassName.java` *(must match the public class name)*
+- **Excel (standard workbook):** `filename.xlsx`
+- **Excel (with VBA macros):** `filename.xlsm`
+- **Excel VBA module (exported code):** `filename.bas`
+   
+- Instructions to reproduce results 
 
-👉 Place scripts in the `/code` folder.
+
 
 ---
 
