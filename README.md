@@ -102,7 +102,6 @@ We thank all contributing researchers, institutions, and partners involved in th
 This repository is a collaborative workspace for authors across Working Groups.
 
 - Contributions are managed through **Working Group branches**
-- All updates should be submitted via **Pull Requests**
-- Please follow the **indicator template structure** and repository guidelines
+
 
 ---
