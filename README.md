@@ -2,11 +2,7 @@
 
 ## Overview
 
-The **Lancet Countdown on Climate Change and Health** is an international research collaboration dedicated to ensuring that health is at the centre of how decision makers understand and respond to climate change. The 2015 Lancet Commission’s conclusion – that ‘tackling climate change could be the greatest global health opportunity of the 21st century’ highlighted the need for a global monitoring system with the ability to engage policymakers and support health professionals.
-
-In 2016 the Lancet Countdown: Tracking Progress on Health and Climate Change was formed to address this gap, beginning with a public consultation to identify key areas to track and monitor. The collaboration recognises that health should be at the centre of how governments and decision makers understand and respond to climate change, to maximise the human benefits of a robust response.
-
-Publishing annually in The Lancet, with strategic and financial support from the Wellcome Trust, The Lancet Countdown is hosted by University College London, and works with almost 300 leading researchers from around the world to track and understand the evolving links between climate change and people’s health.
+The **Lancet Countdown on Climate Change and Health** is an international research collaboration dedicated to ensuring that health is at the centre of how decision makers understand and respond to climate change. 
 
 This repository supports the development of the **Lancet Countdown 2026 Report**, providing a structured and collaborative environment for authors across Working Groups (WGs) to contribute, review, and manage indicator content.
 
