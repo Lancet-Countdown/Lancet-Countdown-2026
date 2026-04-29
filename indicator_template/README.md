@@ -15,7 +15,7 @@ This folder provides the standard structure for all indicators in the Lancet Cou
 
 ---
 
-## Key Message
+## Brief
 
 Provide a short summary (2–3 sentences) explaining the main finding of this indicator.
 
