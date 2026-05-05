@@ -11,7 +11,7 @@ This repository supports the development of the **Lancet Countdown 2026 Report**
 
 ## What We Do
 
-The Lancet Countdown works to ensure that health is central to climate action by producing high-quality scientific evidence and analysis.
+Bringing together over 300 researchers from leading research institutions and UN agencies across the globe, we work to ensure that health is at the centre of how decision makers understand and respond to climate change. Through high-quality scientific data published in *The Lancet*, we work to inform policies that can maximise the health benefits of climate action, and enable a world in which all people can thrive.
 
 Our work:
 - Tracks global progress on climate change and health indicators  
@@ -19,7 +19,8 @@ Our work:
 - Identifies health risks and opportunities linked to climate change  
 - Highlights the health co-benefits of climate mitigation and adaptation  
 
-The findings are published annually in *The Lancet*.
+The 2025 Global Report of the Lancet Countdown represents the work of 128 experts from 71 institutions, monitoring progress across 57 indicators.  
+Our global report has been published in *The Lancet* annually since 2016. 
 
 ---
 
@@ -31,11 +32,11 @@ The Lancet Countdown builds on the 2015 Lancet Commission, which concluded:
 
 In response, the Lancet Countdown was established in 2016 to create a global monitoring system that tracks the links between climate change and human health.
 
-The collaboration:
-- Is hosted by **University College London (UCL)**  
-- Receives strategic and financial support from the **Wellcome Trust**  
+The Lancet Countdown:
+- Is headquartered at **University College London (UCL)**  
+- Is established in partnership with **Wellcome** which continues to provide core funding.  
 - Involves nearly **300 researchers worldwide**  
-- Publishes annual reports in *The Lancet*  
+
 
 ---
 
@@ -88,10 +89,7 @@ For questions or support, please contact:
 
 ## Acknowledgements
 
-The Lancet Countdown is supported by:
-
-- **Wellcome Trust**  
-- **University College London (UCL)**  
+The Lancet Countdown is funded by **Wellcome** and headquartered at **University College London (UCL)**.
 
 We thank all contributing researchers, institutions, and partners involved in the Lancet Countdown collaboration.
 
