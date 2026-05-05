@@ -3,7 +3,16 @@
 
 - **Indicator Number:** 3.5  
 - **Indicator Name:** Healthcare Sector Emissions  
-- **Working Group:** WG3  
+- **Working Group:** WG3
+
+  ## Context
+
+This indicator was developed for the *2025 Lancet Countdown on Health and Climate Change* report:
+
+Romanello M, Walawender M, Hsu S, et al.  
+*The 2025 report of the Lancet Countdown on health and climate change: climate change action offers a lifeline.*  
+The Lancet, 2025; 406: 2804–2857.  
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstract
 
 ## Authors
 
