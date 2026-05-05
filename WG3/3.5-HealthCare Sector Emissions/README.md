@@ -34,9 +34,11 @@ This indicator quantifies healthcare sector emissions of GHGs, ozone and PM2.5 u
 ## Code
 The Python notebook emissions_calcs_updates_3_9_6.ipynb performs consumption-based greenhouse gas emissions calculations using input–output analysis.
 
-## CAVEATS
+## Caveats
 As only total health expenditure data are available from WHO, all expenditures are assigned to Final Demand, with no separation for investment. MRIO models are built from aggregated top-down statistical data. Results do not reflect individual health care systems’ power purchase agreements for renewable energy or any offsetting activities. Results do not include direct emissions of waste anaesthetic gases from clinical operations nor emissions from metered dose inhalers, as these are not currently reported consistently in national emissions inventories.
 
 
-   
+## Acknowledgements
+
+The authors are very grateful to **Kaixin Huang** and **Melanie Marino** for their contributions to code development.
 
