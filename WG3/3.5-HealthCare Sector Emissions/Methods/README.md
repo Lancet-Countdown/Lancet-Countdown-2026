@@ -43,3 +43,6 @@ In addition to GHG emissions, health impacts are estimated using EXIOBASE endpoi
 ## Implementation
 
 All EE-MRIO modeling and calculations are performed in Python using the `pymrio` library.
+---
+## Contact
+For further details regarding the methodology or data, please contact the indicator authors.
