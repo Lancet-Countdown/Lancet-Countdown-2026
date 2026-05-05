@@ -6,6 +6,7 @@ The **Lancet Countdown on Climate Change and Health** is an international resear
 
 This repository supports the development of the **Lancet Countdown 2026 Report**, providing a structured and collaborative environment for authors across Working Groups (WGs) to contribute, review, and manage indicator content.
 
+![Regional Centre Map](https://github.com/Lancet-Countdown/Lancet-Countdown-2026/raw/main/LC%20own/Regional%20Centre%20map%20cropped.png)
 ---
 
 ## What We Do
