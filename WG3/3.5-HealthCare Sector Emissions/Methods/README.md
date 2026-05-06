@@ -9,7 +9,7 @@ Healthcare expenditures from the WHO Global Health Expenditure Database (GHED) a
 
 ---
 
-## Data and Modeling Approach
+## Data 
 
 This analysis utilized EXIOBASE 3.8.2, a global multi-regional environmentally extended input-output (EE-MRIO) database covering 44 countries and 5 rest-of-world (RoW) regions. Although, more recent versions of EXIOBASE exist (v3.9) the previous version (v3.8) was used as results calculated with EXIOBASE v3.9 displayed inconsistent and implausible results that could not be readily explained. Additionally, as the satellite table format was changed with this version update, a characterization table was not available, impeding the calculation of DALYs, which involves matching across multiple environmental accounts. EXIOBASE v3.8.2 MRIO model was used for this analysis, with EXIOBASE tables in euros. 
 However, the 2022 dataset from EXIOBASE v.3.8.2 exhibited severe inconsistencies in emissions multipliers that could not be reconciled, so 2021 dataset was used. Accounting for this, 2022 WHO expenditure data in nominal US dollars expenditures were deflated to 2021 using consumer price indices from the World Bank.200,201 
@@ -68,3 +68,19 @@ All EE-MRIO modeling and calculations are performed in Python using the `pymrio`
 ---
 ## Contact
 For further details regarding the methodology or data, please contact the indicator authors.
+
+## References
+References
+1.	Watts N, Amann M, Arnell N, et al. The 2019 report of The Lancet Countdown on health and climate change: ensuring that the health of a child born today is not defined by a changing climate. The Lancet 2019; 394(10211): 1836-78.
+197.	Miller RE, Blair PD. Input-output analysis: foundations and extensions. Cambridge, UK: Cambridge University Press; 2009.
+198.	Dietzenbacher E, Los B, Stehrer R, Timmer M, De Vries G. The construction of world input–output tables in the WIOD project. Economic Systems Research 2013; 25(1): 71-98.
+199.	Stadler K, Wood R, Bulavskaya T, et al. EXIOBASE 3: Developing a time series of detailed environmentally extended multi‐regional input‐output tables. Journal of Industrial Ecology 2018; 22(3): 502-15.
+200.	WBG. Consumer price index (2010 = 100). 2020. https://data.worldbank.org/indicator/FP.CPI.TOTL?end=2017&locations=US&start=2000.
+201.	WHO. Global Health Expenditure Database: Indicators and data. Geneva, Switzerland: World Health Organization; 2019.
+202.	Pichler P-P, Jaccard IS, Weisz U, Weisz H. International comparison of health care carbon footprints. Environmental Research Letters 2019; 14(6): 064004.
+203.	Health Care Without Harm. Health Care's Climate Footprint: Health Care Without Harm, 2019.
+204.	Gütschow J, Jeffery L, Gieseke R, Günther A. The PRIMAP-hist national historical emissions time series (1850-2017). v2.1. 2019. https://doi.org/10.5880/pik.2019.018.
+205.	WHO. Current health expenditure by financing schemes, in Global Health Expenditure Database. In: Organization WH, editor.; 2020.
+206.	UNSD. Basic Data Selection. United Nations Statistics Division; 2019.
+207.	Fullman N, Yearwood J, Abay SM, et al. Measuring performance on the Healthcare Access and Quality Index for 195 countries and territories and selected subnational locations: a systematic analysis from the Global Burden of Disease Study 2016. The Lancet 2018; 391(10136): 2236-71
+
