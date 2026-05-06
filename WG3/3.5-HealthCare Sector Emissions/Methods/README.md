@@ -22,13 +22,17 @@ The Leontief inverse is calculated as L = (I-A)-1.
 Where:
 -	I = identity matrix.
 -	A = technical coefficient matrix.
+  
 The multiplier matrix M represents the total (direct plus indirect) environmental requirements per until of final demand, and is derived from the Leontief invers matrix combined with environmental intensity coefficients, shown by the following formula:
 M = SL
 Where:
 -	S = factor of production coefficients by sector.
 -	L = Leontief inverse matrix.
+  
 Total requirement factors, or impact coefficients, for GHG emissions (GWP100) were extracted from the EXIOBASE 3.8.2 M matrix, representing characterized emissions in units of kg CO₂eq per Million EUR of final demand for the 'Health and Social Work' sector. Similarly, impact coefficients for health impacts attributable to PM2.5 and ozone exposure, expressed as disability-adjusted life years (DALYs), were extracted from the EXIOBASE 3.8.2 M matrix in units of DALYs per Million EUR of final demand.
+
 For the 44 countries explicitly modelled in EXIOBASE, country-specific emission multipliers were assigned directly. For countries not individually represented in EXIOBASE, rest-of-world regional multipliers were assigned according to WHO regional classifications: South-East Asia and Western Pacific Region, European Region, African Region, Region of the Americas, and Eastern Mediterranean Region.
+
 To calculate healthcare sector emissions and DALYs, the extracted impact coefficients were multiplied by deflated national health expenditures with appropriate currency conversion. Calculations can be expressed by the following formulas:
 Per capita GHG Emissions (kg CO₂eq) = GHG_coeff * pc_che_usd * CF / 1,000,000
 Total GHG emissions (Mt CO₂eq) = Per capita GHG Emissions * (pop * 1,000) / 1,000,000,000
@@ -43,6 +47,7 @@ Where:
 -	che_usd = Current Health Expenditure (CHE), in million current US$
 -	CF = USD > EUR economic adjustment factor for data year, pulled from native WHO data for Eurozone countries.
 -	Pop = Population (in thousands)
+
 Independent research by Pichler et al. on CO2 emissions (excluding other GHGs) associated with health care in OECD countries considered temporal trends and introduced adjustments into the emissions satellite accounts of the EE-MRIO model EORA to reflect shifts in major GHG emissions sources that occurred between the baseline model year and when each healthcare expenditure occurred.  Based on this approach, to adjust results to reflect 2022 conditions, expenditures calculated with the EXIOBASE3 2021 model were updated using the PRIMAP dataset, containing historical greenhouse gas emissions data for countries and sectors. Expenditures calculated with the EXIOBASE 2021 model were then multiplied by the 2021-2022 growth rate from the corresponding sector, extracted from PRIMAP data. However, PRIMAP data did not exist for Palestine (PSE), Tuvalu (TUV) or Nauru (NRU), so the original, unadjusted value was used.
 
 
