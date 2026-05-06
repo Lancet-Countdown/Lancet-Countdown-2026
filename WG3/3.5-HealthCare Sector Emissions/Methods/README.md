@@ -38,10 +38,15 @@ Total requirement factors, or impact coefficients, for GHG emissions (GWP100) we
 For the 44 countries explicitly modelled in EXIOBASE, country-specific emission multipliers were assigned directly. For countries not individually represented in EXIOBASE, rest-of-world regional multipliers were assigned according to WHO regional classifications: South-East Asia and Western Pacific Region, European Region, African Region, Region of the Americas, and Eastern Mediterranean Region.
 
 To calculate healthcare sector emissions and DALYs, the extracted impact coefficients were multiplied by deflated national health expenditures with appropriate currency conversion. Calculations can be expressed by the following formulas:
+
 Per capita GHG Emissions (kg CO₂eq) = GHG_coeff * pc_che_usd * CF / 1,000,000
+
 Total GHG emissions (Mt CO₂eq) = Per capita GHG Emissions * (pop * 1,000) / 1,000,000,000
+
 Total PM2.5 DALYs = PM2.5_DALYs_coeff * che_usd * CF  
+
 Total Ozone DALYs = Ozone_DALYs_coeff * che_usd * CF 
+
 Total DALYs = Total PM2.5 DALYs + Total Ozone DALYs
 
 Where:
