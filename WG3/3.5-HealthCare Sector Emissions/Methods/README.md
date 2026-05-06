@@ -18,13 +18,17 @@ However, the 2022 dataset from EXIOBASE v.3.8.2 exhibited severe inconsistencies
 
 ## Methods
 This indicator is in the form of healthcare-associated GHG emissions per capita per year, including direct emissions from healthcare facilities as well as emissions from the consumption of goods and services supplied by other sectors. Results are calculated by assigning aggregate national health expenditures from WHO to final demand for ‘Health and Social Work’ sectors in the EE-MRIO model.  Environmental satellite accounts including GHG emissions accompany each EE-MRIO model. Consumption-based GHG emissions are then calculated using the standard Leontief inverse technique.197 
-The Leontief inverse is calculated as L = (I-A)-1.
+
+The Leontief inverse is calculated as: L = (I-A)-1.
+
 Where:
 -	I = identity matrix.
 -	A = technical coefficient matrix.
   
 The multiplier matrix M represents the total (direct plus indirect) environmental requirements per until of final demand, and is derived from the Leontief invers matrix combined with environmental intensity coefficients, shown by the following formula:
+
 M = SL
+
 Where:
 -	S = factor of production coefficients by sector.
 -	L = Leontief inverse matrix.
