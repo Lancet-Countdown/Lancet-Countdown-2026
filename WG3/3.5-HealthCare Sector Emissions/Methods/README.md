@@ -1,18 +1,8 @@
-## Methodology
-
-This project estimates healthcare-associated greenhouse gas (GHG) emissions per capita per year, including both:
-
-- Direct emissions from healthcare facilities  
-- Indirect emissions from goods and services supplied by other sectors  
-
-Healthcare expenditures from the WHO Global Health Expenditure Database (GHED) are mapped to the *Health and Social Work* sector within an environmentally extended multi-regional input–output (EE-MRIO) model. Consumption-based emissions are calculated using the standard Leontief inverse approach.
-
----
 
 ## Data and Sources
 
-This analysis utilized EXIOBASE 3.8.2, a global multi-regional environmentally extended input-output (EE-MRIO) database covering 44 countries and 5 rest-of-world (RoW) regions. Although, more recent versions of EXIOBASE exist (v3.9) the previous version (v3.8) was used as results calculated with EXIOBASE v3.9 displayed inconsistent and implausible results that could not be readily explained. Additionally, as the satellite table format was changed with this version update, a characterization table was not available, impeding the calculation of DALYs, which involves matching across multiple environmental accounts. EXIOBASE v3.8.2 MRIO model was used for this analysis, with EXIOBASE tables in euros. 
-However, the 2022 dataset from EXIOBASE v.3.8.2 exhibited severe inconsistencies in emissions multipliers that could not be reconciled, so 2021 dataset was used. Accounting for this, 2022 WHO expenditure data in nominal US dollars expenditures were deflated to 2021 using consumer price indices from the World Bank.
+This analysis utilized EXIOBASE 3.8.2, a global multi-regional environmentally extended input-output (EE-MRIO) database covering 44 countries and 5 rest-of-world (RoW) regions [3]. Although, more recent versions of EXIOBASE exist (v3.9) the previous version (v3.8) was used as results calculated with EXIOBASE v3.9 displayed inconsistent and implausible results that could not be readily explained. Additionally, as the satellite table format was changed with this version update, a characterization table was not available, impeding the calculation of DALYs, which involves matching across multiple environmental accounts. EXIOBASE v3.8.2 MRIO model was used for this analysis, with EXIOBASE tables in euros. 
+However, the 2022 dataset from EXIOBASE v.3.8.2 exhibited severe inconsistencies in emissions multipliers that could not be reconciled, so 2021 dataset was used. Accounting for this, 2022 WHO expenditure data in nominal US dollars expenditures were deflated to 2021 using consumer price indices from the World Bank [5-6].
 
 1.	Environmentally extended multi-region input-output tables: WIOD 2013 release with environmental accounts, latest model year 2011, latest emissions account year 2009, air emissions include CO2, CH4, N2O, NOx, SOx, CO, NMVOC, and NH3;
 2.  Per capita health expenditure data is from the World Health Organization’s Global Health Expenditure Database; the latest reporting year is 2019 [10]. Population data is also from the WHO [6]. 
@@ -22,7 +12,7 @@ However, the 2022 dataset from EXIOBASE v.3.8.2 exhibited severe inconsistencies
 ---
 
 ## Methods
-This indicator is in the form of healthcare-associated GHG emissions per capita per year, including direct emissions from healthcare facilities as well as emissions from the consumption of goods and services supplied by other sectors. Results are calculated by assigning aggregate national health expenditures from WHO to final demand for ‘Health and Social Work’ sectors in the EE-MRIO model.  Environmental satellite accounts including GHG emissions accompany each EE-MRIO model. Consumption-based GHG emissions are then calculated using the standard Leontief inverse technique.197 
+This indicator is in the form of healthcare-associated GHG emissions per capita per year, including direct emissions from healthcare facilities as well as emissions from the consumption of goods and services supplied by other sectors. Results are calculated by assigning aggregate national health expenditures from WHO to final demand for ‘Health and Social Work’ sectors in the EE-MRIO model.  Environmental satellite accounts including GHG emissions accompany each EE-MRIO model. Consumption-based GHG emissions are then calculated using the standard Leontief inverse technique [2].
 
 The Leontief inverse is calculated as: L = (I-A)-1.
 
@@ -30,7 +20,7 @@ Where:
 -	I = identity matrix.
 -	A = technical coefficient matrix.
   
-The multiplier matrix M represents the total (direct plus indirect) environmental requirements per until of final demand, and is derived from the Leontief invers matrix combined with environmental intensity coefficients, shown by the following formula:
+The multiplier matrix M represents the total (direct plus indirect) environmental requirements per until of final demand, and is derived from the Leontief invers matrix combined with environmental intensity coefficients, shown by the following formula [https://pymrio.readthedocs.io/en/latest/math.html]:
 
 M = SL
 
@@ -62,7 +52,7 @@ Where:
 -	CF = USD > EUR economic adjustment factor for data year, pulled from native WHO data for Eurozone countries.
 -	Pop = Population (in thousands)
 
-Independent research by Pichler et al. on CO2 emissions (excluding other GHGs) associated with health care in OECD countries considered temporal trends and introduced adjustments into the emissions satellite accounts of the EE-MRIO model EORA to reflect shifts in major GHG emissions sources that occurred between the baseline model year and when each healthcare expenditure occurred.  Based on this approach, to adjust results to reflect 2022 conditions, expenditures calculated with the EXIOBASE3 2021 model were updated using the PRIMAP dataset, containing historical greenhouse gas emissions data for countries and sectors. Expenditures calculated with the EXIOBASE 2021 model were then multiplied by the 2021-2022 growth rate from the corresponding sector, extracted from PRIMAP data. However, PRIMAP data did not exist for Palestine (PSE), Tuvalu (TUV) or Nauru (NRU), so the original, unadjusted value was used.
+Independent research by Pichler et al. on CO2 emissions (excluding other GHGs) associated with health care in OECD countries considered temporal trends and introduced adjustments into the emissions satellite accounts of the EE-MRIO model EORA to reflect shifts in major GHG emissions sources that occurred between the baseline model year and when each healthcare expenditure occurred.  Based on this approach, to adjust results to reflect 2022 conditions, expenditures calculated with the EXIOBASE3 2021 model were updated using the PRIMAP dataset, containing historical greenhouse gas emissions data for countries and sectors [9]. Expenditures calculated with the EXIOBASE 2021 model were then multiplied by the 2021-2022 growth rate from the corresponding sector, extracted from PRIMAP data. However, PRIMAP data did not exist for Palestine (PSE), Tuvalu (TUV) or Nauru (NRU), so the original, unadjusted value was used.
 
 
 
