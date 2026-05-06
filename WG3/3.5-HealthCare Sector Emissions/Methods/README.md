@@ -9,12 +9,16 @@ Healthcare expenditures from the WHO Global Health Expenditure Database (GHED) a
 
 ---
 
-## Data 
+## Data and Sources
 
 This analysis utilized EXIOBASE 3.8.2, a global multi-regional environmentally extended input-output (EE-MRIO) database covering 44 countries and 5 rest-of-world (RoW) regions. Although, more recent versions of EXIOBASE exist (v3.9) the previous version (v3.8) was used as results calculated with EXIOBASE v3.9 displayed inconsistent and implausible results that could not be readily explained. Additionally, as the satellite table format was changed with this version update, a characterization table was not available, impeding the calculation of DALYs, which involves matching across multiple environmental accounts. EXIOBASE v3.8.2 MRIO model was used for this analysis, with EXIOBASE tables in euros. 
 However, the 2022 dataset from EXIOBASE v.3.8.2 exhibited severe inconsistencies in emissions multipliers that could not be reconciled, so 2021 dataset was used. Accounting for this, 2022 WHO expenditure data in nominal US dollars expenditures were deflated to 2021 using consumer price indices from the World Bank.
 
-
+1.	Environmentally extended multi-region input-output tables: WIOD 2013 release with environmental accounts, latest model year 2011, latest emissions account year 2009, air emissions include CO2, CH4, N2O, NOx, SOx, CO, NMVOC, and NH3;
+2.  Per capita health expenditure data is from the World Health Organization’s Global Health Expenditure Database; the latest reporting year is 2019 [10]. Population data is also from the WHO [6]. 
+3.	Market exchange rates are from UN Statistics Division [11].
+4.  Consumer price indices are from the World Bank [5].
+5.	Healthy life expectancy at birth (both sexes) is from the World Health Organization’s Global Health Observatory for reporting year 2019. 
 ---
 
 ## Methods
