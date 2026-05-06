@@ -34,17 +34,19 @@ Yale School of Medicine, Yale University
 This indicator quantifies healthcare sector emissions of GHGs, ozone and PM2.5 using a top-down spend-based method employing the environmentally-extended multi-region input-output (EE-MRIO) model EXIOBASE and health expenditure data, alongside epidemiological models of air pollution-related health damages. For the first time, it also estimates emissions by GHG Protocol Scope 1 (direct on-site emissions); Scope 2 (purchased energy); and Scope 3 (value chain). It matches per-capita greenhouse gas emissions data with the United Nations Development Programme Human Development Index to report healthcare-associated greenhouse gas emissions per capita per year, including direct emissions from healthcare facilities as well as emissions from the consumption of goods and services supplied by other sectors ( 🔗https://lancetcountdown.org/explore-our-data/).
 
 ## Data Sources
-1.	Environmentally extended multi-region input-output tables: WIOD 2013 release with environmental accounts, latest model year 2011, latest emissions account year 2009, air emissions include CO2, CH4, N2O, NOx, SOx, CO, NMVOC, and NH3;
-2.  Per capita health expenditure data is from the World Health Organization’s Global Health Expenditure Database; the latest reporting year is 2019 [10]. Population data is also from the WHO [6]. 
-3.	Market exchange rates are from UN Statistics Division [11].
-4.  Consumer price indices are from the World Bank [5].
-5.	Healthy life expectancy at birth (both sexes) is from the World Health Organization’s Global Health Observatory for reporting year 2019. 
+Please see the method folder for the data sources.
+
+## Method
+Please see the method folder for the detailed methodology.
 
 ## Code
 The Python notebook emissions_calcs_updates_3_9_6.ipynb performs consumption-based greenhouse gas emissions calculations using input–output analysis.
 
 ## Caveats
-As only total health expenditure data are available from WHO, all expenditures are assigned to Final Demand, with no separation for investment. MRIO models are built from aggregated top-down statistical data. Results do not reflect individual health care systems’ power purchase agreements for renewable energy or any offsetting activities. Results do not include direct emissions of waste anaesthetic gases from clinical operations nor emissions from metered dose inhalers, as these are not currently reported consistently in national emissions inventories.
+-As only total health expenditure data are available from WHO, all expenditures are assigned to Final Demand, with no separation for investment. 
+
+-MRIO models are built from aggregated top-down statistical data.  Results do not reflect individual health care systems’ power purchase agreements for renewable energy or any offsetting activities.  Results do not include direct emissions of waste anaesthetic gases from clinical operations nor emissions from metered dose inhalers, as these are not currently reported consistently in national emissions inventories.
+
 
 
 ## Acknowledgements
