@@ -51,18 +51,6 @@ As only total health expenditure data are available from WHO, all expenditures a
 
 The authors are very grateful to **Kaixin Huang** and **Melanie Marino** for their contributions to code development.
 
-## References
-1.	Watts N, Amann M, Arnell N, et al. The 2019 report of The Lancet Countdown on health and climate change: ensuring that the health of a child born today is not defined by a changing climate. The Lancet 2019; 394(10211): 1836-78.
-2.	Miller RE, Blair PD. Input-output analysis: foundations and extensions. Cambridge, UK: Cambridge University Press; 2009.
-3.	Dietzenbacher E, Los B, Stehrer R, Timmer M, De Vries G. The construction of world input–output tables in the WIOD project. Economic Systems Research 2013; 25(1): 71-98.
-4.	Stadler K, Wood R, Bulavskaya T, et al. EXIOBASE 3: Developing a time series of detailed environmentally extended multi‐regional input‐output tables. Journal of Industrial Ecology 2018; 22(3): 502-15.
-5.	WBG. Consumer price index (2010 = 100). 2020. https://data.worldbank.org/indicator/FP.CPI.TOTL?end=2017&locations=US&start=2000.
-6.	WHO. Global Health Expenditure Database: Indicators and data. Geneva, Switzerland: World Health Organization; 2019.
-7.	Pichler P-P, Jaccard IS, Weisz U, Weisz H. International comparison of health care carbon footprints. Environmental Research Letters 2019; 14(6): 064004.
-8.	Health Care Without Harm. Health Care's Climate Footprint: Health Care Without Harm, 2019.
-9.	Gütschow J, Jeffery L, Gieseke R, Günther A. The PRIMAP-hist national historical emissions time series (1850-2017). v2.1. 2019. https://doi.org/10.5880/pik.2019.018.
-10.	WHO. Current health expenditure by financing schemes, in Global Health Expenditure Database. In: Organization WH, editor.; 2020.
-11.	UNSD. Basic Data Selection. United Nations Statistics Division; 2019.
-12.	Fullman N, Yearwood J, Abay SM, et al. Measuring performance on the Healthcare Access and Quality Index for 195 countries and territories and selected subnational locations: a systematic analysis from the Global Burden of Disease Study 2016. The Lancet 2018; 391(10136): 2236-71
+
 
 
