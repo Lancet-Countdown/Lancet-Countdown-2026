@@ -7,7 +7,7 @@ This folder contains the data processing workflow and methods for the Healthcare
 ## Data Processing
 
 The first part of the document in the `Methods/` folder, titled **Methodology**, contains information related to data processing, including the data sources, preparation steps, and calculation approach.
-The detailed methodology is available here: [Methodology.docx](Methodology.docx).
+The detailed methodology is available here: [Methodology.docx](Methodology.docx). To download the file, open the link and click **View raw**.
 ## Document Contents
 
 - `Data/` – data handling and sources used for processing and analysis.
