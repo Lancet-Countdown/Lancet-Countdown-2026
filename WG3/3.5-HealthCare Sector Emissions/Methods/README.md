@@ -10,8 +10,8 @@ The first part of the document in the `Methods/` folder, titled **Methodology**,
 The detailed methodology is available here: [Methodology.docx](Methodology.docx). To download the file, open the link and click **View raw**.
 ## Document Contents
 
-- `Data/` – data handling and sources used for processing and analysis.
-- `Methods/` – methodological documentation, calculation steps, caveats, and notes
+- `Data` – data handling and sources used for processing and analysis.
+- `Methods` – methodological documentation, calculation steps, caveats, and notes
 
 ## Notes
 
