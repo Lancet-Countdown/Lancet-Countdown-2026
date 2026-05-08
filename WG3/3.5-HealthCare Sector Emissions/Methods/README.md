@@ -1,4 +1,4 @@
-This repository contains the data processing workflow and methods for Healthcare Sector Emissions indicator.
+This folder contains the data processing workflow and methods for Healthcare Sector Emissions indicator.
 
 # Healthcare Sector Emissions
 
