@@ -1,7 +1,7 @@
 
 ## Indicator Information
 
-- **Indicator Number:** 3.5  
+- **Indicator Number:** 3.5
 - **Indicator Name:** Healthcare Sector Emissions  
 - **Working Group:** WG3
 
