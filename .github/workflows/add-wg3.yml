@@ -1,1 +1,42 @@
+name: Add WG3 cleanly
 
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  copy-wg3:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout current main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Fetch Working-Group-3
+        run: git fetch origin Working-Group-3
+
+      - name: Create clean branch from main
+        run: git checkout -B add-wg3-clean
+
+      - name: Copy only WG3
+        run: git checkout origin/Working-Group-3 -- WG3
+
+      - name: Commit WG3
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add WG3
+
+          if git diff --cached --quiet; then
+            echo "No WG3 changes to commit"
+          else
+            git commit -m "Add latest Working Group 3 indicators"
+          fi
+
+      - name: Push clean WG3 branch
+        run: git push origin add-wg3-clean --force
