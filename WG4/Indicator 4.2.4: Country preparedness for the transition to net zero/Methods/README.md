@@ -25,4 +25,4 @@ Observations for individual variables are recovered for as many years as possibl
 
 This process produced a cross-sectional dataset, where some countries have a complete set of observations.
 
-For detailed methods, data sources, and limitations, please see **[Methods 4.2.4](./Methods_4.2.4.docx)**.
+For detailed methods, data sources, and limitations, please see **[Methods 4.2.4](./Methods%204.2.4.docx?raw=1)**.
