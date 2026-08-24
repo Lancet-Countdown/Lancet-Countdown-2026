@@ -21,7 +21,7 @@ Head of the climate change and health unit at WHO Headquarters<br>
 ✉️ campbelllendrumd@who.int
 
 **Yasna Palmeiro-Silva, PhD** <br>
-Department of Global Health, University of Washington)<br>
+Department of Global Health, University of Washington<br>
 ✉️ palmeiro@uw.edu
 
 **Hyunju Lee** <br>
