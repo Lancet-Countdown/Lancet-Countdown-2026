@@ -52,7 +52,7 @@ For this indicator, only the following categories were included in the final res
 - **Baseline period:** 1981–2020.
 - **Analysis period:** 1980–2025.
 
-## Caveats and Limitations
+## Caveats 
 
 1. **Meteorological drought only**
 
