@@ -1,7 +1,7 @@
 ## Indicator Information
 
-- **Indicator Number:** 5.3.1
-- **Indicator Name:** Scientific articles on health and climate change 
+- **Indicator Number:** 5.4.1.1
+- **Indicator Name:** Climate Change and Health in the UN General Debate
 - **Working Group:** WG5
 
   ## Context
