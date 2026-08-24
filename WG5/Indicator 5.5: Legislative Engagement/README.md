@@ -14,7 +14,7 @@ The Lancet, 2025; 406: 2804–2857.
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstract
 
 ## Authors
-
+**Dr Aditi Dutta, PhD** <br>
 Research Fellow in Computational Social Science <br>
 Research Fellow, Working Group 5 (Lancet Countdown) <br>
 School of Government <br>
