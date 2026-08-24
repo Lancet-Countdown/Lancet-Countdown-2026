@@ -33,7 +33,8 @@ Please see the method folder for the data sources.
 Please see the method folder for the detailed methodology.
 
 ## Code
-The full analytical pipeline is implemented in Python and publicly available at github.com/booktrackerGirl/Legislative-indicator. 
+
+The full analytical pipeline is implemented in Python and publicly available at [github.com/booktrackerGirl/Legislative-indicator](https://github.com/booktrackerGirl/Legislative-indicator).
 
 
 
