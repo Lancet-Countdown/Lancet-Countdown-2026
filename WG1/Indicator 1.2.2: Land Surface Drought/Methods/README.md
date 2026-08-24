@@ -12,17 +12,17 @@ Climate data were obtained from the **ERA5-Land reanalysis dataset** produced by
 
 For **1980–2024**, monthly averaged daily precipitation and potential evapotranspiration data were available. PET was estimated using the **Hargreaves method**.
 
-PET data were not available directly for 2025. Therefore, daily minimum and maximum temperatures were downloaded and used to calculate PET for 2025 using the **Hargreaves method**<sup>116</sup> and the **SPEI R package**.<sup>117</sup>
+PET data were not available directly for 2025. Therefore, daily minimum and maximum temperatures were downloaded and used to calculate PET for 2025 using the **Hargreaves method** and the **SPEI R package**.
 
 For the full time series, PET was combined with precipitation to calculate SPEI. The indicator uses **6-month SPEI (SPEI6)**, with **1981–2020** used as the baseline period for fitting the distribution.
 
-SPEI was calculated following the standard methodology established by Vicente-Serrano et al.<sup>114</sup> using the **SPEI R package**.<sup>117</sup>
+SPEI was calculated following the standard methodology established by Vicente-Serrano et al. using the **SPEI R package**.
 
 Large desert areas were excluded from the analysis.
 
 ### Drought Severity Classification
 
-Drought conditions were classified into four severity levels using SPEI thresholds defined by the **Federal Office of Meteorology and Climatology MeteoSwiss**.<sup>118</sup>
+Drought conditions were classified into four severity levels using SPEI thresholds defined by the **Federal Office of Meteorology and Climatology MeteoSwiss**.
 
 | SPEI value | Drought severity | Approximate frequency |
 | --- | --- | --- |
