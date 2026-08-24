@@ -5,8 +5,6 @@ This folder contains the data sources, caveats and methods for the Legislative E
 
 ## Methods
 
-## Methods
-
 ### Overview
 
 To quantify the impact of **human-caused climate change on heatwave exposure**, we estimated temperatures under a counterfactual climate with no anthropogenic forcing. The difference between the number of heatwave days in the observed climate and the counterfactual climate represents the number of heatwave days attributable to human-caused climate change.
