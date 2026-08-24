@@ -15,17 +15,17 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstr
 
 ## Authors
 
-**Matthew J. Eckelman, PhD**  
-Professor and Associate Chair of Faculty  
-Department of Civil & Environmental Engineering  
-Northeastern University  
-🔗 https://coe.northeastern.edu/people/eckelman-matthew/  
-✉️ m.eckelman@northeastern.edu  
+**Dr Aditi Dutta, PhD**  
+Research Fellow in Computational Social Science 
+Research Fellow, Working Group 5 (Lancet Countdown)
+School of Government
+University of Birmingham
+🔗 https://www.birmingham.ac.uk/staff/profiles/gov/dutta-aditi
+✉️ a.dutta.4@bham.ac.uk
 
 
 ## Brief description of the indicator
-
-This indicator quantifies healthcare sector emissions of GHGs, ozone and PM2.5 using a top-down spend-based method employing the environmentally-extended multi-region input-output (EE-MRIO) model EXIOBASE and health expenditure data, alongside epidemiological models of air pollution-related health damages. For the first time, it also estimates emissions by GHG Protocol Scope 1 (direct on-site emissions); Scope 2 (purchased energy); and Scope 3 (value chain). It matches per-capita greenhouse gas emissions data with the United Nations Development Programme Human Development Index to report healthcare-associated greenhouse gas emissions per capita per year, including direct emissions from healthcare facilities as well as emissions from the consumption of goods and services supplied by other sectors ( 🔗https://lancetcountdown.org/explore-our-data/).
+This indicator measures how far national climate legislation explicitly engages with human health. It captures both general health relevance, where laws mention health outcomes, risks, or systems, and institutional health integration, where health-sector actors such as ministries of health are formally assigned roles in climate governance. The analysis uses the Climate Change Laws of the World (CCLW) legislative dataset and focuses on legally enacted legislative documents, excluding executive policies, strategies, and non-binding instruments. To avoid double counting, related documents such as an original law and its amendments are grouped into a single policy family. The indicator covers legislation from 2000–2025 across 185 countries, tracking the active stock of health-relevant climate laws globally.
 
 ## Data Sources
 Please see the method folder for the data sources.
@@ -34,18 +34,8 @@ Please see the method folder for the data sources.
 Please see the method folder for the detailed methodology.
 
 ## Code
-The Python notebook emissions_calcs_updates_3_9_6.ipynb performs consumption-based greenhouse gas emissions calculations using input–output analysis.
+The full analytical pipeline is implemented in Python and publicly available at github.com/booktrackerGirl/Legislative-indicator. 
 
-## Caveats
-- As only total health expenditure data are available from WHO, all expenditures are assigned to Final Demand, with no separation for investment. 
-
-- MRIO models are built from aggregated top-down statistical data.  Results do not reflect individual health care systems’ power purchase agreements for renewable energy or any offsetting activities.  Results do not include direct emissions of waste anaesthetic gases from clinical operations nor emissions from metered dose inhalers, as these are not currently reported consistently in national emissions inventories.
-
-
-
-## Acknowledgements
-
-The authors are very grateful to **Kaixin Huang** and **Melanie Marino** for their contributions to code development.
 
 
 
