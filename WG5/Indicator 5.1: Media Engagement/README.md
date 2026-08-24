@@ -48,7 +48,7 @@ Please see the method folder for the detailed methodology.
 
  Please see the Code folder for detailed instructions.
 
- ##Citation
+ ## Citation
  Coan, T. G., Malla, R., & O'Neill, S. (2026). Media Engagement with Health and Climate Change.
 
 
