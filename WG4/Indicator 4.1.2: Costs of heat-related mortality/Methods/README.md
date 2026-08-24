@@ -10,12 +10,11 @@ Heat-related excess mortality is estimated using an **exposure–response functi
 
 For each grid cell \(g\) and year \(t\), the attributable fraction (AF) of daily mortality attributable to heat above the minimum mortality temperature (MMT) is:
 
-$$
-AF_{g,t}
-=
-1-\exp\left[-(T_{g,t}-MMT_g)\times\beta_g\right]
-\qquad (1)
-$$
+```math
+AF_{g,t} = 1 - \exp\left[-\left(T_{g,t} - MMT_g\right)\times\beta_g\right]
+```
+
+**(1)**
 
 where \(T_{g,t}\) is the daily maximum temperature, \(MMT_g\) is the minimum mortality temperature threshold, and \(\beta_g\) is the exposure–response slope (climate-zone-specific).
 
