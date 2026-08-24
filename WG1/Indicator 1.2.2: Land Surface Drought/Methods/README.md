@@ -2,13 +2,13 @@
 
 ### Drought Metric
 
-This indicator uses the **6-month Standardised Precipitation Evapotranspiration Index (SPEI6)** to measure the proportion of land surface affected by drought events.<sup>114,115</sup>
+This indicator uses the **6-month Standardised Precipitation Evapotranspiration Index (SPEI6)** to measure the proportion of land surface affected by drought events.
 
 SPEI accounts for both the **intensity and duration of drought** and captures the combined influence of precipitation and potential evapotranspiration (PET) on drought severity.
 
 ### Climate Data and SPEI Calculation
 
-Climate data were obtained from the **ERA5-Land reanalysis dataset** produced by the European Centre for Medium-Range Weather Forecasts (ECMWF).<sup>11</sup>
+Climate data were obtained from the **ERA5-Land reanalysis dataset** produced by the European Centre for Medium-Range Weather Forecasts (ECMWF).
 
 For **1980–2024**, monthly averaged daily precipitation and potential evapotranspiration data were available. PET was estimated using the **Hargreaves method**.
 
@@ -46,7 +46,7 @@ For this indicator, only the following categories were included in the final res
 
 ## Data
 
-- **ERA5-Land reanalysis data** – Copernicus Climate Change Service (C3S) Climate Data Store (CDS).<sup>11</sup>
+- **ERA5-Land reanalysis data** – Copernicus Climate Change Service (C3S) Climate Data Store (CDS).
 - **Precipitation data** – used together with PET to calculate SPEI.
 - **Potential evapotranspiration (PET)** – available for 1980–2024 and calculated for 2025 from daily minimum and maximum temperatures using the Hargreaves method.
 - **Baseline period:** 1981–2020.
