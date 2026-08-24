@@ -29,7 +29,7 @@ We also exclude health co-benefits of GHG reduction policies, such as the air po
 
 The full methodology, including the identification of climate- and health-related research, search strategies, research classifications, validation,  is available here:
 
-- [Methods 4.3.4](Methods%204.3.4.docx)
+- [Methods 4.3.4](<Methods 4.3.4.docx>)
 
 ## Caveats and Limitations
 
