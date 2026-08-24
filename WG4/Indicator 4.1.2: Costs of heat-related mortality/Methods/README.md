@@ -22,16 +22,11 @@ Daily AF values are summed over the year to give annual AF per grid cell.
 
 Annual heat-related deaths in each age group \(a\) at grid cell \(g\) are then calculated as:
 
-$$
-Deaths_{a,g,t}
-=
-mort\_rate_{a,g}
-\times
-pop_{a,g,t}
-\times
-AF_{g,t}
-\qquad (2)
-$$
+```math
+Deaths_{a,g,t} = mort\_rate_{a,g} \times pop_{a,g,t} \times AF_{g,t}
+```
+
+**(2)**
 
 where \(mort\_rate_{a,g}\) is the age-specific all-cause mortality rate (GBD 2019; IHME; persons per person per day) and \(pop_{a,g,t}\) is the age-specific gridded population.
 
@@ -43,13 +38,11 @@ Grid-level deaths are aggregated to country level using boundary masks.
 
 YLL is calculated as the sum of heat-related excess deaths in each age group multiplied by the corresponding standard life expectancy at the age of death:
 
-$$
-YLL
-=
-\sum_{m=65-69}^{100+}
-E_m \times LE_m
-\qquad (3)
-$$
+```math
+YLL = \sum_{m=65-69}^{100+} E_m \times LE_m
+```
+
+**(3)**
 
 where \(E_m\) is the annual heat-related excess deaths in age group \(m\) of a given country, and \(LE_m\) represents the standard life expectancy at the age of death for age group \(m\) (WHO life tables).
 
@@ -61,13 +54,14 @@ To monetise YLL, the **value of a statistical life-year (VSLY)** is applied.
 
 VSLY is derived from the **value of a statistical life (VSL)** following the OECD 2025 mortality risk valuation framework:
 
-$$
+```math
 VSLY_{it}
 =
 \frac{VSL_{it}\times r}
 {1-(1+r)^{-L}}
-\qquad (4)
-$$
+```
+
+**(4)**
 
 where:
 
@@ -87,12 +81,13 @@ Based on OECD 2025 reference values:
 
 yielding:
 
-$$
+```math
 \frac{VSLY_{it}}{Y_{it}}
 =
 \frac{VSLY_{OECD}}{Y_{OECD}}
-\qquad (5)
-$$
+```
+
+**(5)**
 
 The same ratio is applied to all countries and years **2000–2025**.
 
@@ -104,33 +99,35 @@ Monetised YLL is expressed in two complementary forms.
 
 First, monetised YLL relative to GDP per capita (\(R\)), equivalent to personal incomes:
 
-$$
+```math
 R_{it}
 =
 \frac{VSLY_{it}\times YLL_{it}}{Y_{it}}
 =
 \frac{VSLY_{OECD}}{Y_{OECD}}
-\times
-YLL_{it}
-\qquad (6)
-$$
+\times YLL_{it}
+```
+
+**(6)**
 
 ## Monetised YLL as a Proportion of Total GDP
 
 Second, monetised YLL is expressed as a proportion of total GDP (\(V\)), where \(P\) denotes total population:
 
-$$
+```math
 V_{it}
 =
 \frac{VSLY_{it}\times YLL_{it}}{GNI_{it}}
 =
-\frac{VSLY_{it}\times YLL_{it}}{Y_{it}\times P_{it}}
+\frac{VSLY_{it}\times YLL_{it}}
+{Y_{it}\times P_{it}}
 =
 \frac{VSLY_{OECD}}{Y_{OECD}}
 \times
 \frac{YLL_{it}}{P_{it}}
-\qquad (7)
-$$
+```
+
+**(7)**
 
 A total of **173 countries across six WHO regions** are included.
 
