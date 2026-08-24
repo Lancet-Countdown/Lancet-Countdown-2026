@@ -13,4 +13,4 @@ We estimated baseline food consumption by adopting estimates of food availabilit
 
 This proxy for food consumption was disaggregated by age and sex by adopting the same age- and sex-specific trends as observed in dietary surveys.
 
- For full details of the methodology, see **[Methods 3.3.2](./Methods%203.3.2.docx)**.
+ For full details of the methodology, data sources and limitations **[Methods 3.3.2](./Methods%203.3.2.docx)**. Please click raw to view and download the file.
