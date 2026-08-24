@@ -19,7 +19,7 @@ jobs:
 
       - name: Rename folder
         run: |
-          git mv "WG3/3.5-HealthCare Sector Emissions" "WG3/Indicator 3.5.1 - Healthcare Sector Emissions"
+          git mv "WG3/3.5-HealthCare Sector Emissions" "WG3/Indicator 3.5.1: Healthcare Sector Emissions"
 
       - name: Commit and push
         run: |
