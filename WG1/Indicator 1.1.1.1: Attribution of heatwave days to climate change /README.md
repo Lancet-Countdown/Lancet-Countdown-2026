@@ -2,7 +2,7 @@
 
 - **Indicator Number:** 1.1.1.1
 - **Indicator Name:** Attribution of heatwave days to climate change 
-- **Working Group:** WG5
+- **Working Group:** WG1
 
   ## Context
 
