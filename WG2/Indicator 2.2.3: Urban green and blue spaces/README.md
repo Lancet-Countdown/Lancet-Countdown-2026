@@ -28,7 +28,6 @@ GWU Milken Institute School of Public Health, George Washington University <br>
 ✉️ gretam@gwu.edu
 
 **Patrick L. Kinney, ScD** <br>
-Executive Director<br>
 Department of Environmental Health, School of Public Health, Boston University <br>
 🔗 https://www.bu.edu/sph/profile/patrick-kinney/<br>
 ✉️ pkinney@bu.edu
