@@ -15,12 +15,11 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstr
 
 ## Authors
 
-**Dr Aditi Dutta, PhD**  
-Research Fellow in Computational Social Science 
-Research Fellow, Working Group 5 (Lancet Countdown)
-School of Government
-University of Birmingham
-🔗 https://www.birmingham.ac.uk/staff/profiles/gov/dutta-aditi
+Research Fellow in Computational Social Science <br>
+Research Fellow, Working Group 5 (Lancet Countdown) <br>
+School of Government <br>
+University of Birmingham <br>
+🔗 https://www.birmingham.ac.uk/staff/profiles/gov/dutta-aditi <br>
 ✉️ a.dutta.4@bham.ac.uk
 
 
