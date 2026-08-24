@@ -25,7 +25,7 @@ At the beginning of 2018, in compliance with the recommendations of the IHR Revi
 
 The SPAR tool scoring system has remained the same since 2018 and is summarised in Table 36.
 
-## Table 36. SPAR Scoring System of IHR Core Capacities and Lancet Countdown Classification of Level of Implementation
+## Table. SPAR Scoring System of IHR Core Capacities and Lancet Countdown Classification of Level of Implementation
 
 | Indicator level | Score | Score range | Lancet Countdown classification |
 |---|---:|---:|---|
