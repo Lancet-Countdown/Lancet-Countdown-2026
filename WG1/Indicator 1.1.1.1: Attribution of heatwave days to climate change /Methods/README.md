@@ -83,20 +83,16 @@ An ensemble-average counterfactual temperature was then calculated in three stag
 
 ### Heatwave Days Attributable to Climate Change
 
+### Heatwave Days Attributable to Climate Change
+
 Heatwaves were calculated separately using the observed and counterfactual daily temperature datasets.
 
 For each location and year:
 
-[
-\text{Attributable heatwave days}
-=================================
-
-## \text{Observed heatwave days}
-
-\text{Counterfactual heatwave days}
-]
+**Attributable heatwave days = Observed heatwave days − Counterfactual heatwave days**
 
 Positive values therefore represent additional heatwave days attributable to **human-caused climate change**.
+
 
 ### Population Weighting
 
