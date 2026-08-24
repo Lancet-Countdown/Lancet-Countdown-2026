@@ -1,8 +1,8 @@
 ## Indicator Information
 
-- **Indicator Number:** 2.3.2
-- **Indicator Name:** Lethality of extreme weather events 
-- **Working Group:** WG2
+- **Indicator Number:** 3.3.2
+- **Indicator Name:** Diet and health co-benefits 
+- **Working Group:** WG3
 
   ## Context
 
