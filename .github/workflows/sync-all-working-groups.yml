@@ -1,0 +1,72 @@
+name: Sync all Working Groups
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-working-groups:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout current main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Fetch all Working Group branches
+        run: |
+          git fetch origin Working-Group-1
+          git fetch origin Working-Group-2
+          git fetch origin Working-Group-3
+          git fetch origin Working-Group-4
+          git fetch origin Working-Group-5
+
+      - name: Create clean branch from current main
+        run: |
+          git checkout -B sync-all-working-groups
+
+      - name: Copy latest WG1
+        run: |
+          rm -rf WG1
+          git checkout origin/Working-Group-1 -- WG1
+
+      - name: Copy latest WG2
+        run: |
+          rm -rf WG2
+          git checkout origin/Working-Group-2 -- WG2
+
+      - name: Copy latest WG3
+        run: |
+          rm -rf WG3
+          git checkout origin/Working-Group-3 -- WG3
+
+      - name: Copy latest WG4
+        run: |
+          rm -rf WG4
+          git checkout origin/Working-Group-4 -- WG4
+
+      - name: Copy latest WG5
+        run: |
+          rm -rf WG5
+          git checkout origin/Working-Group-5 -- WG5
+
+      - name: Commit all Working Groups
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A WG1 WG2 WG3 WG4 WG5
+
+          if git diff --cached --quiet; then
+            echo "No Working Group changes to commit"
+          else
+            git commit -m "Sync latest WG1-WG5 indicators"
+          fi
+
+      - name: Push clean branch
+        run: |
+          git push origin sync-all-working-groups --force
