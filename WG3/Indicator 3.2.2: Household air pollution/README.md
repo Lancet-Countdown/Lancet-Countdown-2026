@@ -15,7 +15,7 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstr
 
 ## Authors
 
-**Dr Nahid Mohajeri ** <br>
+**Dr Nahid Mohajeri** <br>
 Associate Professor in Sustainable Built Environments, Energy and Resources<br>
 Bartlett School Env, Energy & Resources, UCL<br>
 🔗 https://profiles.ucl.ac.uk/25811-nahid-mohajeri<br>
