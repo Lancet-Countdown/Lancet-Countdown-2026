@@ -1,0 +1,34 @@
+## Indicator Information
+
+- **Indicator Number:** 1.2.2
+- **Indicator Name:** Drought: Terrestrial Water Storage
+- **Working Group:** WG1
+
+  ## Context
+
+This indicator was developed for the *2026 Lancet Countdown on Health and Climate Change* report:
+
+Romanello M, Walawender M, Hsu S, et al.  
+*The 2025 report of the Lancet Countdown on health and climate change: climate change action offers a lifeline.*  
+The Lancet, 2025; 406: 2804–2857.  
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstract
+
+## Authors
+
+**Professor Mohammad Shamsudduha** <br>
+Executive Director<br>
+Department of Risk and Disaster Reduction (RDR), University College London <br>
+🔗 https://profiles.ucl.ac.uk/5212-mohammad-shamsudduha<br>
+✉️ m.shamsudduha@ucl.ac.uk
+
+## Brief description of the indicator
+This indicator measures total terrestrial water storage from GRACE satellite observations, representing all water stored on and beneath the land surface, including soil moisture, surface water, groundwater, snow, and ice..
+
+## Data Sources
+Please see the method folder for the data sources.
+
+## Method
+Please see the method folder for the detailed methodology.
+
+## Code
+ Please see the Code folder for detailed instruction
