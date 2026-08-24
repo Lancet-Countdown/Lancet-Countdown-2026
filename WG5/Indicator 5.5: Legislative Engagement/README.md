@@ -34,7 +34,7 @@ Please see the method folder for the detailed methodology.
 
 ## Code
 
-The full analytical pipeline is implemented in Python and Please see the Code folder for the detailed instructions.
+The full analytical pipeline is implemented in Python. Please see the Code folder for detailed instructions.
 
 
 
