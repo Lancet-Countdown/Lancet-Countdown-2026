@@ -30,7 +30,8 @@ University of Washington<br>
 
 
 ## Brief description of the indicator
-The estimate of heat-related deaths prevented by air conditioning should be treated as a rough estimate, not a precise figure. It is based on a small number of studies, mostly from high-income countries, so the protective effect of air conditioning may not apply equally across all regions or income groups. The estimate may also be affected by confounding, because households with air conditioning may differ in other ways, such as health status, income, housing quality, or living conditions. In addition, having air conditioning at home does not always mean it is used, especially where electricity costs are high. Finally, air conditioning data are often only available at regional or country level, so the analysis assumes coverage is evenly distributed within each area, which may not reflect real differences within large or diverse countries.
+Using data from the International Energy Agency, this indicator calculates the global proportion of households with air conditioning. It also uses International Energy Agency data to estimate electricity use, greenhouse gas emissions, and building-related CO₂ emissions from air conditioning, and combines this with heat-related mortality data from Indicator 1.1.5 to estimate heat-related deaths prevented by air conditioning.
+
 
 
 
