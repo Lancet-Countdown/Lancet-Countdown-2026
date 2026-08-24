@@ -23,7 +23,6 @@ The epidemiological relevance of this metric for human health outcomes has been 
 ## WNV Temperature Suitability Metric
 
 A mathematical formulation of the WNV temperature suitability metric is given by:
-
 $$
 S(T)=
 \frac{
