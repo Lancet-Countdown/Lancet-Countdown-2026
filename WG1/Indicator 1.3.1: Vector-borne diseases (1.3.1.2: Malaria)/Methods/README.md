@@ -36,15 +36,10 @@ P(\text{mm/month}) = P(\text{m/s}) \times 3600 \times 24 \times 30.44 \times 100
 
 Using temperature and dew point temperature, relative humidity was calculated using the August-Roche-Magnus equation:
 
-\[
-RH = 100 \times
-\exp
-\left(
-\frac{aT_d}{b + T_d}
--
-\frac{aT}{b + T}
-\right)
-\]
+$$
+RH = 100 \frac{\exp\left(\frac{aT_d}{b+T_d}\right)}
+{\exp\left(\frac{aT}{b+T}\right)}
+$$
 
 where:
 
