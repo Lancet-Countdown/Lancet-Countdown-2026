@@ -81,7 +81,6 @@ An ensemble-average counterfactual temperature was then calculated in three stag
 2. Counterfactual temperatures from the **24 CMIP6 models** were averaged.
 3. The empirical average and climate-model average were then averaged to obtain the final ensemble counterfactual temperature.
 
-### Heatwave Days Attributable to Climate Change
 
 ### Heatwave Days Attributable to Climate Change
 
@@ -106,11 +105,18 @@ Population-weighted results were calculated for the average distribution over **
 
 ## Data
 
-•	Climate Data: ECMWF ERA5 reanalysis dataset and corresponding daily counterfactual temperatures computed a multi-method approach
-•	Demographic data from WorldPop2025 (averaged over 2016-2025) were used for population weighting.
+* **Climate data:** ECMWF ERA5 reanalysis data and corresponding daily counterfactual temperatures estimated using a multi-method climate attribution approach.
 
+* **Demographic data:** WorldPop 2025 population data, averaged over **2016–2025**, were used for population weighting.
 
 ## Caveats and Limitations
-Attribution is built on the estimation of conditions that would have occurred without climate change (i.e. the counterfactual temperatures). The challenge is that the counterfactual climate is never observed. This is why the counterfactual temperatures used in this indicator are constructed based on multiple pathways. This is considered best practice in the field.
 
-The main statement in this indicator is about the number of heatwave days added by climate change. These are days where the observed temperatures met the heatwave criteria while the counterfactual temperatures did not. This sets up a binary choice that is valuable as an index but that obscures important nuances around heat impacts. Days that do not meet the criteria in the counterfactual world are most likely still very warm days. Similarly, days that meet the criteria in both climates will be warmer and therefore more dangerous because of climate change in today’s world.
+1. **Counterfactual climate estimation**
+
+   Climate attribution relies on estimating the conditions that would have occurred in the absence of human-caused climate change (i.e., the counterfactual climate). Because this counterfactual climate cannot be directly observed, there is inherent uncertainty in its estimation. To address this, the counterfactual temperatures used in this indicator were constructed using multiple empirical and climate-model pathways, consistent with best practice in climate attribution research.
+
+2. **Interpretation of attributable heatwave days**
+
+   The main measure reported by this indicator is the **number of heatwave days added by human-caused climate change**. These are days on which the observed temperatures met the heatwave criteria while the corresponding counterfactual temperatures did not.
+
+   This binary classification provides a useful indicator of climate change attribution but does not capture the full range of heat-related impacts. For example, days that do not meet the heatwave threshold in the counterfactual climate may still have been very warm. Similarly, days that meet the heatwave criteria in both the observed and counterfactual climates are generally warmer in today's climate and may therefore pose greater risks to health because of human-caused climate change.
