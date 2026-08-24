@@ -22,7 +22,7 @@ University of Sussex<br>
 ✉️ d.r.kniveton@sussex.ac.uk
 
 **Yasna Palmeiro-Silva, PhD** <br>
-Department of Global Health, University of Washington)<br>
+Department of Global Health, University of Washington<br>
 ✉️ palmeiro@uw.edu
 
 ## Brief description of the indicator
