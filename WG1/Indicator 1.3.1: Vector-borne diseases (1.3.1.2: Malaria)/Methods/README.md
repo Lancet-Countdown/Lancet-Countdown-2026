@@ -11,7 +11,7 @@ Suitability is defined as the coincidence of several climatic factors:
 
 The defined thresholds are based on the consensus from the scientific literature.
 
-## Table 17. Suitability Thresholds for Malaria Pathogens Transmitted by *Anopheles* spp.
+## Table. Suitability Thresholds for Malaria Pathogens Transmitted by *Anopheles* spp.
 
 | Genus/Species | Temperature (°C) | Relative Humidity (%) | Precipitation (mm/month) |
 |---|---:|---:|---:|
