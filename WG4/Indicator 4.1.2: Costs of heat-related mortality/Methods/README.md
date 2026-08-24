@@ -25,7 +25,6 @@ Annual heat-related deaths in each age group \(a\) at grid cell \(g\) are then c
 ```math
 Deaths_{a,g,t} = mort\_rate_{a,g} \times pop_{a,g,t} \times AF_{g,t}
 ```
-
 **(2)**
 
 where \(mort\_rate_{a,g}\) is the age-specific all-cause mortality rate (GBD 2019; IHME; persons per person per day) and \(pop_{a,g,t}\) is the age-specific gridded population.
