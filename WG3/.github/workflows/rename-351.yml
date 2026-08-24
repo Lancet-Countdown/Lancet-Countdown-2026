@@ -1,0 +1,28 @@
+name: Rename Indicator 3.5.1 folder
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rename-folder:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Working-Group-3
+        uses: actions/checkout@v4
+        with:
+          ref: Working-Group-3
+
+      - name: Rename folder
+        run: |
+          git mv "WG3/3.5-HealthCare Sector Emissions" "WG3/Indicator 3.5.1 - Healthcare Sector Emissions"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Rename Indicator 3.5.1 folder"
+          git push origin Working-Group-3
