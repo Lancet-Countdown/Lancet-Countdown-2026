@@ -102,7 +102,7 @@ Therefore, we calculated \(D_a\) for the most granular country groupings availab
 
 ---
 
-## Table 29. IEA-Defined Regions
+## Table. IEA-Defined Regions
 
 The 14 IEA-defined regions do not include 12 major countries (**Canada, Brazil, China, India, Indonesia, Japan, Mexico, Republic of Korea, Russian Federation, South Africa, United Kingdom, United States**) for which country-level data were provided.
 
