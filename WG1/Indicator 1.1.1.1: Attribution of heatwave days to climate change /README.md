@@ -20,7 +20,7 @@ Climate Central <br>
 🔗 https://www.climatecentral.org/what-we-do/people/andrew-pershing <br>
 ✉️ apershing@climatecentral.org
 
-**Joseph Giguere ** <br>
+**Joseph Giguere** <br>
 Research Technician in Climate Data Science <br>
 Climate Central <br>
 🔗 https://www.climatecentral.org/what-we-do/people/joseph-giguere <br>
