@@ -1,0 +1,17 @@
+# Data folders
+Data 2010-2020/
+M_matrices/
+RESULTS/
+deflated_expenditures/
+
+# Large files
+*.zip
+*.xlsx
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
