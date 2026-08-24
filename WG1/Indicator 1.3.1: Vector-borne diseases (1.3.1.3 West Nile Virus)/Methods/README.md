@@ -23,10 +23,11 @@ The epidemiological relevance of this metric for human health outcomes has been 
 ## WNV Temperature Suitability Metric
 
 A mathematical formulation of the WNV temperature suitability metric is given by:
+
 $$
 S(T)=
 \frac{
-M^{*}(T)a(T)^2b_M(T)e^{-\mu_M(T)\operatorname{EIP}(T)}
+M^{*}(T)a(T)^2b_M(T)e^{-\mu_M(T){EIP}(T)}
 }{
 \mu_M(T)
 }
@@ -37,7 +38,7 @@ The temperature-dependent mosquito-pathogen traits are:
 - Adult mosquito biting rate \(a(T)\)
 - Mosquito infection probability \(b_M(T)\)
 - Adult mosquito mortality rate \(\mu_M(T)\)
-- Length of the extrinsic incubation period \(\operatorname{EIP}(T)\)
+- Length of the extrinsic incubation period \({EIP}(T)\)
 
 Additionally, \(M^{*}(T)\) is a relative proxy for mosquito abundance derived from a mosquito population dynamics model and is given by:
 
@@ -57,7 +58,7 @@ M^{*}(T)=
 \frac{\omega\beta(T)p_{EJ}(T)}
 {\mu_M(T)}
 \leq 1
-\\[12pt]
+\\
 0,
 &
 \text{else}
