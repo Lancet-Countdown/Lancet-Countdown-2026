@@ -21,7 +21,9 @@ The method then uses the observed linear relationship between local temperature 
 
 The temperature distribution for a particular year is shifted according to the difference:
 
-[GMT_{yr} - GMT_{ref}]
+```math
+\left[ GMT_{yr} - GMT_{ref} \right]
+```
 
 where the mean GMT during the 1991–2020 reference period was approximately **0.8°C** above the pre-industrial baseline.
 
