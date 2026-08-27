@@ -13,7 +13,7 @@ Temperature percentiles were calculated relative to the **1986–2005 baseline p
 
 ### Counterfactual Temperature Estimation
 
-Daily counterfactual temperatures were obtained using the **Climate Shift Index attribution system**<sup>4</sup>, which implements a multi-method approach to climate change attribution.<sup>5</sup>
+Daily counterfactual temperatures were obtained using the **Climate Shift Index attribution system**<sup>1</sup>, which implements a multi-method approach to climate change attribution.<sup>2</sup>
 
 The attribution system first characterises the distribution of daily temperatures at each ERA5 grid point over the **1991–2020 reference period**. Temperature distributions are estimated for 24 periods throughout the year and parameterised using a **skew-normal distribution**.
 
@@ -21,9 +21,7 @@ The method then uses the observed linear relationship between local temperature 
 
 The temperature distribution for a particular year is shifted according to the difference:
 
-[
-GMT_{yr} - GMT_{ref}
-]
+[GMT_{yr} - GMT_{ref}]
 
 where the mean GMT during the 1991–2020 reference period was approximately **0.8°C** above the pre-industrial baseline.
 
@@ -56,7 +54,7 @@ For a given year *yr*, the modern climate distribution was calculated from a **3
 
 The corresponding counterfactual climate distribution was calculated using the same period from the model's pre-industrial control simulation.
 
-The **1991–2020 ERA5 temperature data** were used to de-bias the climate model simulations.<sup>5,6</sup>
+The **1991–2020 ERA5 temperature data** were used to de-bias the climate model simulations.<sup>2,3</sup>
 
 ### Calculation of Counterfactual Temperatures
 
@@ -69,7 +67,7 @@ For each observed daily temperature (T):
 
 1. The quantile associated with (T) was identified within the corresponding modern climate distribution.
 2. The temperature corresponding to the same quantile was then identified within the counterfactual distribution.
-3. This temperature was taken as the estimated **counterfactual temperature**.<sup>4</sup>
+3. This temperature was taken as the estimated **counterfactual temperature**.<sup>1</sup>
 
 An ensemble-average counterfactual temperature was then calculated in three stages:
 
@@ -116,3 +114,11 @@ Population-weighted results were calculated for the average distribution over **
    The main measure reported by this indicator is the **number of heatwave days added by human-caused climate change**. These are days on which the observed temperatures met the heatwave criteria while the corresponding counterfactual temperatures did not.
 
    This binary classification provides a useful indicator of climate change attribution but does not capture the full range of heat-related impacts. For example, days that do not meet the heatwave threshold in the counterfactual climate may still have been very warm. Similarly, days that meet the heatwave criteria in both the observed and counterfactual climates are generally warmer in today's climate and may therefore pose greater risks to health because of human-caused climate change.
+
+   ## References
+1. Gilford DM, Pershing A, Strauss BH, Haustein K, Otto FEL. A multi-method framework for global real-time climate attribution. Adv Stat Climatol Meteorol Oceanogr 2022; 8: 135–54.
+   
+2. 	Lange S. Trend-preserving bias adjustment and statistical downscaling with ISIMIP3BASD (v1.0). Geosci Model Dev 2019; 12: 3055–70.
+    
+3. 	Xu Z, FitzGerald G, Guo Y, Jalaludin B, Tong S. Impact of heatwave on mortality under different heatwave definitions: A systematic review and meta-analysis. Environ Int 2016; 89–90: 193–203.
+
