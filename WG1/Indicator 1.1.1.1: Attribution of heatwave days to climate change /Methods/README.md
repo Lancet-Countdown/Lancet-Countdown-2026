@@ -116,9 +116,10 @@ Population-weighted results were calculated for the average distribution over **
    This binary classification provides a useful indicator of climate change attribution but does not capture the full range of heat-related impacts. For example, days that do not meet the heatwave threshold in the counterfactual climate may still have been very warm. Similarly, days that meet the heatwave criteria in both the observed and counterfactual climates are generally warmer in today's climate and may therefore pose greater risks to health because of human-caused climate change.
 
    ## References
-1. Gilford DM, Pershing A, Strauss BH, Haustein K, Otto FEL. A multi-method framework for global real-time climate attribution. Adv Stat Climatol Meteorol Oceanogr 2022; 8: 135–54.
    
-2. 	Lange S. Trend-preserving bias adjustment and statistical downscaling with ISIMIP3BASD (v1.0). Geosci Model Dev 2019; 12: 3055–70.
+[1] Gilford DM, Pershing A, Strauss BH, Haustein K, Otto FEL. A multi-method framework for global real-time climate attribution. Adv Stat Climatol Meteorol Oceanogr 2022; 8: 135–54.
+   
+[2]	Lange S. Trend-preserving bias adjustment and statistical downscaling with ISIMIP3BASD (v1.0). Geosci Model Dev 2019; 12: 3055–70.
     
-3. 	Xu Z, FitzGerald G, Guo Y, Jalaludin B, Tong S. Impact of heatwave on mortality under different heatwave definitions: A systematic review and meta-analysis. Environ Int 2016; 89–90: 193–203.
+[3] 	Xu Z, FitzGerald G, Guo Y, Jalaludin B, Tong S. Impact of heatwave on mortality under different heatwave definitions: A systematic review and meta-analysis. Environ Int 2016; 89–90: 193–203.
 
