@@ -107,11 +107,11 @@ Population-weighted results were calculated for the average distribution over **
 
 ## Caveats and Limitations
 
-1. **Counterfactual climate estimation**
+ **Counterfactual climate estimation**
 
    Climate attribution relies on estimating the conditions that would have occurred in the absence of human-caused climate change (i.e., the counterfactual climate). Because this counterfactual climate cannot be directly observed, there is inherent uncertainty in its estimation. To address this, the counterfactual temperatures used in this indicator were constructed using multiple empirical and climate-model pathways, consistent with best practice in climate attribution research.
 
-2. **Interpretation of attributable heatwave days**
+ **Interpretation of attributable heatwave days**
 
    The main measure reported by this indicator is the **number of heatwave days added by human-caused climate change**. These are days on which the observed temperatures met the heatwave criteria while the corresponding counterfactual temperatures did not.
 
@@ -119,9 +119,9 @@ Population-weighted results were calculated for the average distribution over **
 
    ## References
    
-[1] Gilford DM, Pershing A, Strauss BH, Haustein K, Otto FEL. A multi-method framework for global real-time climate attribution. Adv Stat Climatol Meteorol Oceanogr 2022; 8: 135–54.
+1. Gilford DM, Pershing A, Strauss BH, Haustein K, Otto FEL. A multi-method framework for global real-time climate attribution. Adv Stat Climatol Meteorol Oceanogr 2022; 8: 135–54.
    
-[2]	Lange S. Trend-preserving bias adjustment and statistical downscaling with ISIMIP3BASD (v1.0). Geosci Model Dev 2019; 12: 3055–70.
+2.	Lange S. Trend-preserving bias adjustment and statistical downscaling with ISIMIP3BASD (v1.0). Geosci Model Dev 2019; 12: 3055–70.
     
-[3] 	Xu Z, FitzGerald G, Guo Y, Jalaludin B, Tong S. Impact of heatwave on mortality under different heatwave definitions: A systematic review and meta-analysis. Environ Int 2016; 89–90: 193–203.
+3. 	Xu Z, FitzGerald G, Guo Y, Jalaludin B, Tong S. Impact of heatwave on mortality under different heatwave definitions: A systematic review and meta-analysis. Environ Int 2016; 89–90: 193–203.
 
