@@ -1,8 +1,4 @@
-# 1.1.1.1 Attribution of heatwave days to climate change 
-
-This folder contains the data sources, caveats and methods for the Legislative Engagement indicator.
-
-
+# 1.1.1.1 Attribution of heatwave days to climate change
 ## Methods
 
 ### Overview
