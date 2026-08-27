@@ -13,7 +13,7 @@ Temperature percentiles were calculated relative to the **1986–2005 baseline p
 
 ### Counterfactual Temperature Estimation
 
-Daily counterfactual temperatures were obtained using the **Climate Shift Index attribution system**<sup>1</sup>, which implements a multi-method approach to climate change attribution.<sup>2</sup>
+Daily counterfactual temperatures were obtained using the **Climate Shift Index attribution system**,<sup>1</sup> which implements a multi-method approach to climate change attribution.<sup>2</sup>
 
 The attribution system first characterises the distribution of daily temperatures at each ERA5 grid point over the **1991–2020 reference period**. Temperature distributions are estimated for 24 periods throughout the year and parameterised using a **skew-normal distribution**.
 
