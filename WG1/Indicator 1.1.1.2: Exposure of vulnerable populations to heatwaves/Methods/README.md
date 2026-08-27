@@ -117,13 +117,23 @@ WorldPop's **top-down unconstrained** approach was used for population mapping. 
 ## References
 
 [1] WMO, WHO. Heatwaves and Health: Guidance on Warning-System Development. Geneva, 2015 https://www.who.int/publications/m/item/heatwaves-and-health--guidance-on-warning-system-development (accessed April 28, 2026).
+
 [2]	Liu J, Qi J, Yin P, et al. Rising cause-specific mortality risk and burden of compound heatwaves amid climate change. Nat Clim Chang 2024; 14: 1201–9.
+
 [3] 	Napoli C Di, Pappenberger F, Cloke HL, Napoli C Di, Pappenberger F, Cloke HL. Verification of Heat Stress Thresholds for a Health-Based Heat-Wave Definition. J Appl Meteorol Climatol 2019; 58: 1177–94.
+
 [4]	Muñoz-Sabater J, Dutra E, Agustí-Panareda A, et al. ERA5-Land: A state-of-the-art global reanalysis dataset for land applications. Earth Syst Sci Data 2021; 13: 4349–83.
+
 [5]	Kenney WL, Munce TA. Invited Review: Aging and human temperature regulation. J Appl Physiol 2003; 95: 2598–603.
+
 [6]	Ebi KL, Capon A, Berry P, et al. C Hot weather and heat extremes: health risks. The Lancet 2021; 398: 698–708.
+
 [7]	Bin Maideen MF, Jay O, Bongers C, Nanan R, Smallcombe JW. Optimal low-cost cooling strategies for infant strollers during hot weather. Ergonomics 2023; 66: 1935–49.
+
 [8]	Romanello M, Napoli C di, Green C, et al. The 2023 report of the Lancet Countdown on health and climate change: the imperative for a health-centred response in a world facing irreversible harms. The Lancet 2023; 402: 2346–94.
+
 [9]	WorldPop, Center for International Earth Science Information Network (CIESIN). Global High Resolution Population Denominators Project. 2018. DOI:10.5258/SOTON/WP00646.
+
 [10]	Bondarenko M, Priyatikanto R, Tejedor-Garavito N, et al. The spatial distribution of population broken down by gender and age groupings in 2015-2030 at a resolution of 30 arc (approximately 1km at the equator) R2025A version v1. 2025. DOI:10.5258/SOTON/WP00846.
+
 [11]	Tartarini F, Smallcombe JW, Lynch GP, Cross TJ, Broderick C, Jay O. The Sports Medicine Australia extreme heat risk and response guidelines and web tool. J Sci Med Sport 2025; 28: 690–9.
