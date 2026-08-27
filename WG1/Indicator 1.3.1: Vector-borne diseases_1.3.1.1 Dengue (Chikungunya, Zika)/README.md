@@ -1,7 +1,7 @@
 ## Indicator Information
 
-- **Indicator Number:** 1.2.2
-- **Indicator Name:** Drought: Land surface drought
+- **Indicator Number:** 1.3.1.1
+- **Indicator Name:** Dengue (Chikungunya, Zika) 
 - **Working Group:** WG1
 
   ## Context

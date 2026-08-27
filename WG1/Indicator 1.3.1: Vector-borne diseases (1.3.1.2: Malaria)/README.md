@@ -26,7 +26,7 @@ Earth Sciences - Global Health Resilience, Barcelona Supercomputing Center <br>
 🔗 https://www.bsc.es/mila-garcia-carles<br>
 ✉️ carles.milagarcia@bsc.es
 
-**Professor Rachel Lowe ** <br>
+**Professor Rachel Lowe** <br>
  ICREA Research Professor and Global Health Resilience Group Leader <br>
 Barcelona Supercomputing Center <br>
 🔗 https://www.bsc.es/lowe-rachel<br>
