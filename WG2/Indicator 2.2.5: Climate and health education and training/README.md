@@ -22,12 +22,12 @@ Director of the Global Consortium on Climate and Health Education, Columbia Univ
 
 ** Gina Friel, DNP,CRNP-PC** <br>
 Global Consortium on Climate and Health Education, Columbia University<br>
-🔗 https://www.publichealth.columbia.edu/research/programs/global-consortium-climate-health-education/about/who-we-are
+🔗 https://www.publichealth.columbia.edu/research/programs/global-consortium-climate-health-education/about/who-we-are <br>
 ✉️ gf2492@cumc.columbia.edu
 
 **Prof Ying Zhang** <br>
 Professor of Global Health and Climate Change, The University of Sydney<br>
-🔗 https://profiles.sydney.edu.au/ying.zhang
+🔗 https://profiles.sydney.edu.au/ying.zhang <br>
 ✉️ ying.zhang@sydney.edu.au
 
 
