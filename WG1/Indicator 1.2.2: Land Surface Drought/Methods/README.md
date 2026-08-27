@@ -1,73 +1,71 @@
 ## Methods
 
-### Drought Metric
+### Land Surface Drought
 
-This indicator uses the **6-month Standardised Precipitation Evapotranspiration Index (SPEI6)** to measure the proportion of land surface affected by drought events.
+This drought indicator uses the **Standardised Precipitation Evapotranspiration Index (SPEI6)** as a measure of the land surface affected by drought events.<sup>2,3</sup> This index allows for both the intensity and duration of droughts to be taken into account. It captures the influence of both precipitation and potential evapotranspiration (PET) on drought severity.
 
-SPEI accounts for both the **intensity and duration of drought** and captures the combined influence of precipitation and potential evapotranspiration (PET) on drought severity.
+Data were downloaded from **ERA5-Land**, a reanalysis product of the European Centre for Medium-Range Weather Forecasts (ECMWF).<sup>1</sup>
 
-### Climate Data and SPEI Calculation
+For the years **1980–2024**, monthly averaged daily precipitation and monthly daily accumulated potential evapotranspiration data, estimated using the Hargreaves method, were available.
 
-Climate data were obtained from the **ERA5-Land reanalysis dataset** produced by the European Centre for Medium-Range Weather Forecasts (ECMWF).
+PET data were not available for 2025. Instead, daily minimum and maximum temperatures were downloaded, and the Hargreaves method<sup>4</sup> and `SPEI` R package<sup>5</sup> were used to calculate PET.
 
-For **1980–2024**, monthly averaged daily precipitation and potential evapotranspiration data were available. PET was estimated using the **Hargreaves method**.
+For the whole time series, PET was combined with precipitation to calculate the SPEI. For the indicator, **6-month SPEI values** were calculated using **1981–2020** as the baseline period to fit the function.
 
-PET data were not available directly for 2025. Therefore, daily minimum and maximum temperatures were downloaded and used to calculate PET for 2025 using the **Hargreaves method** and the **SPEI R package**.
+The standard methodology for calculating SPEI and the `SPEI` R package were used.<sup>2,5</sup> Large desert areas were masked out for the analysis.
 
-For the full time series, PET was combined with precipitation to calculate SPEI. The indicator uses **6-month SPEI (SPEI6)**, with **1981–2020** used as the baseline period for fitting the distribution.
+### Drought Severity
 
-SPEI was calculated following the standard methodology established by Vicente-Serrano et al. using the **SPEI R package**.
+Droughts were defined according to four severity levels using the SPEI thresholds defined by the Federal Office of Meteorology and Climatology MeteoSwiss.<sup>6</sup>
 
-Large desert areas were excluded from the analysis.
+| SPEI value | Description | Frequency of event in respective month |
+|---|---|---|
+| -0.8 to -1.29 | Moderate drought | 1–2 times in 10 years |
+| -1.3 to -1.59 | Severe drought | 1–2 times in 20 years |
+| -1.6 to -1.99 | Extreme drought | 1–2 times in 40 years |
+| < -2 | Exceptional drought | 1 time in 50 years or less |
 
-### Drought Severity Classification
+### Excess Severe Drought Events
 
-Drought conditions were classified into four severity levels using SPEI thresholds defined by the **Federal Office of Meteorology and Climatology MeteoSwiss**.
+To detect unusual drought events, **excess severe drought events** were defined as yearly counts of months in drought for each grid cell that exceeded **two standard deviations above the mean** of the yearly counts of months in drought during the baseline period **1981–2020**.
 
-| SPEI value | Drought severity | Approximate frequency |
-| --- | --- | --- |
-| −0.80 to −1.29 | Moderate drought | 1–2 times in 10 years |
-| −1.30 to −1.59 | Severe drought | 1–2 times in 20 years |
-| −1.60 to −1.99 | Extreme drought | 1–2 times in 40 years |
-| < −2.00 | Exceptional drought | Once in 50 years or less |
+The excess events were defined independently for each SPEI severity level of drought, and the percentage of land area exposed to excess drought events at the different severity levels was calculated.
 
-### Excess Drought Events
+Only **extreme drought** and **exceptional drought** were included in the indicator.
 
-To identify unusually high drought occurrence, **excess drought events** were calculated separately for each drought severity level.
+---
 
-For each grid cell, the annual number of months experiencing drought was calculated. An excess drought event was defined as an annual count of drought months exceeding **two standard deviations above the mean annual number of drought months during the 1981–2020 baseline period**.
-
-The percentage of land area experiencing excess drought events was then calculated separately for each drought severity category.
-
-For this indicator, only the following categories were included in the final results:
-
-- **Extreme drought**
-- **Exceptional drought**
 
 ## Data
 
-- **ERA5-Land reanalysis data** – Copernicus Climate Change Service (C3S) Climate Data Store (CDS).
-- **Precipitation data** – used together with PET to calculate SPEI.
-- **Potential evapotranspiration (PET)** – available for 1980–2024 and calculated for 2025 from daily minimum and maximum temperatures using the Hargreaves method.
-- **Baseline period:** 1981–2020.
-- **Analysis period:** 1980–2025.
+- **ERA5-Land reanalysis data:** Copernicus Climate Change Service (C3S) Climate Data Store (CDS).<sup>1</sup>
 
-## Caveats 
+---
 
-1. **Meteorological drought only**
+## Caveats
 
-   This indicator captures the effects of climate conditions on **meteorological drought**, but does not directly capture **hydrological or agricultural drought**, both of which can have substantial impacts on human health.
+A limitation of this indicator is that it only captures the impacts of climate change on **meteorological drought** and does not capture the impacts of climate change on hydrological or agricultural drought, which can have major health impacts.
 
-2. **Population exposure is not directly measured**
+Moreover, it does not measure the direct relationship between a drought and the population living in, or depending on, drought-affected areas.
 
-   The indicator measures the proportion of land affected by drought rather than the number of people directly exposed to drought conditions.
+It is not possible to apply population-based weighting because many people affected by a drought may not live in the area directly affected. For example, droughts affecting agricultural areas may occur in sparsely populated regions while having disproportionately large impacts on the food supply.
 
-   Population weighting is not appropriate because people affected by drought do not necessarily live within the drought-affected area. For example, agricultural drought may occur in sparsely populated regions but have substantial effects on food production and food supply for populations living elsewhere.
+It is therefore difficult to determine trends in the number of people affected by drought from trends in extreme drought areas.
 
-3. **Land area does not directly represent health impact**
+Further work is required to link reported drought damages in societies to climatic indicators. This would require a better understanding of population exposure factors.
 
-   Trends in the geographical extent of extreme or exceptional drought cannot therefore be directly interpreted as trends in the number of people affected.
+---
 
-4. **Further work is required**
+## References
 
-   Further research is needed to link reported societal and health impacts of drought with climatic drought indicators. This will require improved understanding of population exposure, vulnerability, food-system impacts, and other pathways through which drought affects human health.
+1. Muñoz-Sabater J, Dutra E, Agustí-Panareda A, *et al.* ERA5-Land: A state-of-the-art global reanalysis dataset for land applications. *Earth Syst Sci Data* 2021; **13**: 4349–83.
+
+2. Begueria S, Latorre B, Reig F, Vincent-Serrano SM. The Standardised Precipitation-Evapotranspiration Index. CSIC. 2012. [https://spei.csic.es/home.html](https://spei.csic.es/home.html) (accessed April 29, 2026).
+
+3. Hargreaves GH, Allen RG. History and Evaluation of Hargreaves Evapotranspiration Equation. *Journal of Irrigation and Drainage Engineering* 2003; **129**: 53–63.
+
+4. Beguería S, Vicente-Serrano SM. Calculation of the Standardized Precipitation-Evapotranspiration Index [R package SPEI version 1.8.1]. *CRAN: Contributed Packages* 2023; published online March 2. DOI:10.32614/CRAN.PACKAGE.SPEI.
+
+5. MeteoSwiss. Drought indices. MeteoSwiss. 2022. [https://www.meteoswiss.admin.ch/climate/climate-change/drier-summers/drought-indices.html](https://www.meteoswiss.admin.ch/climate/climate-change/drier-summers/drought-indices.html) (accessed April 29, 2026).
+
+6. Tapley BD, Bettadpur S, Ries JC, Thompson PF, Watkins MM. GRACE measurements of mass variability in the Earth system. *Science (1979)* 2004; **305**: 503–5.
