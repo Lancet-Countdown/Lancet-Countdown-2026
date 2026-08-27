@@ -14,7 +14,7 @@ The Lancet, 2025; 406: 2804–2857.
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstract
 
 ## Authors
-**Kelton Minor,PhD** <br>
+**Kelton Minor, PhD** <br>
 Associate Professor of Planetary Behavioral Data Science at SODAS and the Department of Psychology <br>
 University of Copenhagen<br>
 🔗 https://sodas.ku.dk/people/<br>
