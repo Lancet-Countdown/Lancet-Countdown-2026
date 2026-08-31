@@ -28,10 +28,10 @@ WG3 Chair, Lancet Countdown, Imperial College London <br>
 ✉️ i.hamilton@imperial.ac.uk
 
 **Harry Kennard, PhD** <br>
-Senior Research Associate <br>
-Center on Global Energy Policy (CGEP), School of International and Public Affairs, Columbia University <br>
-🔗 https://people.climate.columbia.edu/users/profile/harry-kennard <br>
-✉️ hrk2122@columbia.edu
+Lecturer & Research Associate <br>
+Lyndon B Johnson School of Public Affairs, University of Texas at Austin <br>
+🔗 https://lbj.utexas.edu/harry-r-kennard <br>
+✉️ hkennard@utexas.edu
 
 
 
