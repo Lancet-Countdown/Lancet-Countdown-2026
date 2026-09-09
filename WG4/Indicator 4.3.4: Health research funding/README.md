@@ -20,7 +20,7 @@ University College London <br>
 🔗 https://profiles.ucl.ac.uk/28199-will-mcdowall <br>
 ✉️ w.mcdowall@ucl.ac.uk
 
-**Will McDowall, PhD** <br>
+**Hamid Nejadghorban, PhD** <br>
 Research Fellow in Econometric Modelling for Energy and the Environment<br>
 Bartlett School Env, Energy & Resources, University College London <br>
 🔗 https://profiles.ucl.ac.uk/89683-hamid-nejadghorban<br>
