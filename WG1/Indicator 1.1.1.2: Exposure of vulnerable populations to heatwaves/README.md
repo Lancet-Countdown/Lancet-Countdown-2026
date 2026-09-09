@@ -20,6 +20,10 @@ University of Sydney <br>
 🔗 https://profiles.sydney.edu.au/federico.tartarini <br>
 ✉️ federico.tartarini@sydney.edu.au
 
+**Dr Mitchell Black** <br>
+Australian Bureau of Meteorology <br>
+✉️ mitchell.black@bom.gov.au
+
 **Professor Ollie Jay** <br>
 Professor of Heat and Health and Director of the Heat and Health Research Centre and Thermal Ergonomics Laboratory <br>
 Faculty of Medicine and Health  <br>
