@@ -15,10 +15,10 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstr
 
 ## Authors
 **Kelton Minor, PhD** <br>
-Associate Professor<br>
- Faculty of Medicine and Health, University of Sydney<br>
-🔗 https://profiles.sydney.edu.au/troy.cross<br>
-✉️ troy.cross@sydney.edu.au
+Associate Professor of Planetary Behavioral Data Science at SODAS and the Department of Psychology <br>
+University of Copenhagen<br>
+🔗 https://sodas.ku.dk/people/<br>
+✉️ kmi@sodas.ku.dk
 
 
 
