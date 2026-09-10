@@ -20,7 +20,7 @@ Director of the Global Consortium on Climate and Health Education, Columbia Univ
 🔗 https://www.publichealth.columbia.edu/profile/cecilia-j-sorensen-md<br>
 ✉️ cjs2282@cumc.columbia.edu
 
-** Gina Friel, DNP,CRNP-PC** <br>
+**Gina Friel, DNP,CRNP-PC** <br>
 Global Consortium on Climate and Health Education, Columbia University<br>
 🔗 https://www.publichealth.columbia.edu/research/programs/global-consortium-climate-health-education/about/who-we-are <br>
 ✉️ gf2492@cumc.columbia.edu
