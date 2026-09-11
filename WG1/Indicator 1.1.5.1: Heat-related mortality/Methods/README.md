@@ -87,11 +87,11 @@ Temperature data were transformed into regional, population-weighted daily avera
 
 The indicator uses the following data sources:
 
-- **Temperature and altitude:** ERA5-Land hourly gridded 2 metre temperature at 0.1° resolution from the Copernicus Climate Change Service Climate Data Store. :contentReference[oaicite:0]{index=0}
-- **Mortality and population:** yearly country-level mortality and population estimates from the Global Burden of Disease. :contentReference[oaicite:1]{index=1}
-- **Gridded population:** Gridded Population of the World, Version 4, Revision 11 (GPWv4). :contentReference[oaicite:2]{index=2}
-- **Meta-predictors:** World Development Indicators, World Bank Group. :contentReference[oaicite:3]{index=3}
-- **Mortality registry data:** official mortality registries, complemented with data from the United Nations Statistics Division Demographic Statistics Database, Eurostat Mortality Statistics and the World Mortality Dataset. :contentReference[oaicite:4]{index=4}
+- **Temperature and altitude:** ERA5-Land hourly gridded 2 metre temperature at 0.1° resolution from the Copernicus Climate Change Service Climate Data Store.
+- **Mortality and population:** yearly country-level mortality and population estimates from the Global Burden of Disease. 
+- **Gridded population:** Gridded Population of the World, Version 4, Revision 11 (GPWv4). 
+- **Meta-predictors:** World Development Indicators, World Bank Group. 
+- **Mortality registry data:** official mortality registries, complemented with data from the United Nations Statistics Division Demographic Statistics Database, Eurostat Mortality Statistics and the World Mortality Dataset. 
 
 Mortality data availability varied by country, spatial level, years covered and temporal resolution. The underlying dataset includes national and regional mortality series with daily, weekly or monthly observations.
 
@@ -99,6 +99,6 @@ Mortality data availability varied by country, spatial level, years covered and 
 
 The exposure-response associations were meta-predicted for all countries to ensure consistency across continents.
 
-Country-level indicator values were not provided because attributable mortality could not be calculated reliably at regional level where regional mortality estimates were unavailable in the Global Burden of Disease. Regional-level estimation is important because temperature-mortality relationships can vary substantially within countries, for example between coastal and mountainous areas. National-level epidemiological associations may therefore fail to capture important subnational differences. :contentReference[oaicite:5]{index=5}
+Country-level indicator values were not provided because attributable mortality could not be calculated reliably at regional level where regional mortality estimates were unavailable in the Global Burden of Disease. Regional-level estimation is important because temperature-mortality relationships can vary substantially within countries, for example between coastal and mountainous areas. National-level epidemiological associations may therefore fail to capture important subnational differences. 
 
-The indicator also compares periods of different lengths, eight and ten years, because Global Burden of Disease mortality estimates were not available for 2024–2025. :contentReference[oaicite:6]{index=6}
+The indicator also compares periods of different lengths, eight and ten years, because Global Burden of Disease mortality estimates were not available for 2024–2025. 
