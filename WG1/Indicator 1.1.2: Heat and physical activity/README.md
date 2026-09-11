@@ -15,15 +15,15 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstr
 
 ## Authors
 **Troy J Cross, PhD** <br>
-Research Associate Professor<br>
-Director, Heat Resilience and Performance Centre, National University of Singapore <br>
-🔗 https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/jason-kai-wei-lee/<br>
+Associate Professor<br>
+ Faculty of Medicine and Health, University of Sydney<br>
+🔗 https://profiles.sydney.edu.au/troy.cross<br>
 ✉️ troy.cross@sydney.edu.au
 
 **Jason Kai Wei Lee, PhD** <br>
-Research Fellow <br>
-Lancet Countdown, Institute for Global Health, University College London <br>
-🔗 https://lancetcountdown.org/staff-member/maria-walawender/<br>
+Professor <br>
+Director, Heat Resilience and Performance Centre, National University of Singapore <br>
+🔗https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/jason-kai-wei-lee/<br>
 ✉️  phsjlkw@nus.edu.sg
 
 
