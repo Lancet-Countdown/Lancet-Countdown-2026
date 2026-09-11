@@ -1,7 +1,7 @@
 ## Indicator Information
 
-- **Indicator Number:** 1.1.2
-- **Indicator Name:** Heat and physical activity 
+- **Indicator Number:** 1.2.1.1
+- **Indicator Name:** Wildfire Exposure 
 - **Working Group:** WG1
 
   ## Context
@@ -14,21 +14,24 @@ The Lancet, 2025; 406: 2804–2857.
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstract
 
 ## Authors
-**Troy J Cross, PhD** <br>
-Associate Professor<br>
- Faculty of Medicine and Health, University of Sydney<br>
-🔗 https://profiles.sydney.edu.au/troy.cross<br>
-✉️ troy.cross@sydney.edu.au
+**Prof. Yang Liu** <br>
+Chair, Gangarosa Department of Environmental Health<br>
+Gangarosa Department of Environmental Health, Rollins School of Public Health, Emory University<br>
+🔗 https://sph.emory.edu/profile/faculty/yang-liu<br>
+✉️  yang.liu@emory.edu
 
-**Jason Kai Wei Lee, PhD** <br>
-Professor <br>
-Director, Heat Resilience and Performance Centre, National University of Singapore <br>
-🔗https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/jason-kai-wei-lee/<br>
-✉️  phsjlkw@nus.edu.sg
+**Yun Hang, PhD** <br>
+Assistant Professor <br>
+UTHealth School of Public Health, The University of Texas <br>
+🔗https://www.utsph-hang.org/people<br>
+✉️  yun.hang@uth.tmc.edu
 
+**Dr. Dimple Pruthi** <br>
+Gangarosa Department of Environmental Health, Rollins School of Public Health, Emory University<br>
+✉️  dpruth2@emory.edu
 
 ## Brief description of the indicator
-This indicator incorporates temperature, humidity, and solar radiation restricting analysis to local sunlight hours only to estimate and track the daily hours per person during which undertaking outdoor physcial activity would pose a heightened heat stress risk. The indicator uses the updated 2024 Sports Medicine Australia Extreme Heat Policy, which applies the Predicted Heat Strain model (ISO 7933:2023) to estimate heat stress risk during brisk outdoor walking. Exposure is tracked at two levels: "any" risk (at least moderate), requiring additional rest breaks and active cooling, and "extreme" risk, at which physical activity should be avoided entirely.
+The Fire Danger Risk Indicator is derived from Fire Weather Index (FWI) parameters calculated using ECMWF ERA5 atmospheric reanalysis data. Some very small countries and territories cannot be assigned valid grid cells. The final dataset covers 187 countries. FWI values are classified into six Fire Danger Index (FDI) categories following EFFIS definitions: very low (<5.2), low (5.2–11.2), moderate (11.2–21.3), high (21.3–38.0), very high (38.0–50.0), and extreme (≥50.0). Fire danger exposure is assessed by calculating the average annual number of days classified as very high or extreme fire danger. Changes in exposure are quantified by comparing the most recent decade (2016–2025) against the historical decade (2006–2015). Population-weighted exposure estimates are generated using gridded population data. Wildfire exposure is additionally characterized by using satellite-observed active fire detections. 
 
 ## Data Sources
 Please see the method folder for the data sources.
