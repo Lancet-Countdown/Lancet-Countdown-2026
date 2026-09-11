@@ -14,16 +14,20 @@ The Lancet, 2025; 406: 2804–2857.
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstract
 
 ## Authors
-**Kelton Minor, PhD** <br>
-Associate Professor of Planetary Behavioral Data Science at SODAS and the Department of Psychology <br>
-University of Copenhagen<br>
-🔗 https://sodas.ku.dk/people/<br>
-✉️ kmi@sodas.ku.dk
+**Prof Elizabeth Robinson** <br>
+ Grantham Research Institute <br>
+London School of Economics<br>
+🔗 https://www.lse.ac.uk/granthaminstitute/profile/elizabeth-robinson/<br>
+✉️ E.J.Z.ROBINSON@lse.ac.uk
 
+**Dr Shouro Dasgupta** <br>
+Euro-Mediterranean Centre For Climate Change<br>
+🔗 https://www.cmcc.it/people/dasgupta-shouro<br>
+✉️ shouro.dasgupta@cmcc.it
 
 
 ## Brief description of the indicator
-This indicator incorporates temperature, humidity, and solar radiation restricting analysis to local sunlight hours only to estimate and track the daily hours per person during which undertaking outdoor physcial activity would pose a heightened heat stress risk. The indicator uses the updated 2024 Sports Medicine Australia Extreme Heat Policy, which applies the Predicted Heat Strain model (ISO 7933:2023) to estimate heat stress risk during brisk outdoor walking. Exposure is tracked at two levels: "any" risk (at least moderate), requiring additional rest breaks and active cooling, and "extreme" risk, at which physical activity should be avoided entirely.
+This indicator tracks change in the proportion of the population reporting moderate​ or severe food insecurity due to anomalies in heatwave days and frequency of drought months occurring during four major crop (maize, rice, sorghum, and wheat) growing seasons compared to 1981-2010.
 
 ## Data Sources
 Please see the method folder for the data sources.
