@@ -1,7 +1,7 @@
 ## Indicator Information
 
 - **Indicator Number:** 1.2.4
-- **Indicator Name:** Rising night-time temperatures and sleep loss 
+- **Indicator Name:** Air Pollution from sand and dust storms
 - **Working Group:** WG1
 
   ## Context
@@ -14,16 +14,29 @@ The Lancet, 2025; 406: 2804–2857.
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstract
 
 ## Authors
-**Kelton Minor, PhD** <br>
-Associate Professor of Planetary Behavioral Data Science at SODAS and the Department of Psychology <br>
-University of Copenhagen<br>
-🔗 https://sodas.ku.dk/people/<br>
-✉️ kmi@sodas.ku.dk
+**Dr. Daniel Tong** <br>
+Associate Professor, Atmospheric Chemistry and Aerosols <br>
+Gorge Mason University<br>
+🔗 https://science.gmu.edu/directory/daniel-tong<br>
+✉️ qtong@gmu.edu
 
+**Dr. Peng Xian** <br>
+Atmospheric researcher at the Marine Meteorology Division of the Naval Research Laboratory<br>
+✉️ peng.xian@nrlmry.navy.mil
+
+**Dr. Sara Basart** <br>
+Scientific Officer for the Global Atmosphere Watch (GAW) programme at the World Meteorological Organization (WMO)<br>
+✉️ sbasart@wmo.int
+
+**Dr. Patricia Castellanos** <br>
+Research AST, Meteorological Studies <br>
+NASA<br>
+🔗 https://science.gsfc.nasa.gov/sci/bio/patricia.castellanos<br>
+✉️ patricia.castellanos@nasa.gov
 
 
 ## Brief description of the indicator
-This indicator incorporates temperature, humidity, and solar radiation restricting analysis to local sunlight hours only to estimate and track the daily hours per person during which undertaking outdoor physcial activity would pose a heightened heat stress risk. The indicator uses the updated 2024 Sports Medicine Australia Extreme Heat Policy, which applies the Predicted Heat Strain model (ISO 7933:2023) to estimate heat stress risk during brisk outdoor walking. Exposure is tracked at two levels: "any" risk (at least moderate), requiring additional rest breaks and active cooling, and "extreme" risk, at which physical activity should be avoided entirely.
+Global atmospheric reanalysis is being used in global air pollution exposure assessment studies because gaps in monitoring information exist in many regions of the world. Population exposure to mineral dust surface concentration used here (i.e. PM10-dust) is estimated from an ensemble product produced from four state-of-the-art global aerosol reanalysis datasets. All data are processed to a standard unit (i.e. µg/m3) and grid (horizontal spatial resolution of 0.1° x 0.1°) to produce a multi-model ensemble PM10-dust product. The global dust product is the average of the four estimates, and it is available daily, monthly, and annual intervals. Gridded PM10 dust is intersected with gridded population data. Population-weighted country-level exposures is then derived by averaging concentrations of all grids of the country, with weights proportional to the population.
 
 ## Data Sources
 Please see the method folder for the data sources.
