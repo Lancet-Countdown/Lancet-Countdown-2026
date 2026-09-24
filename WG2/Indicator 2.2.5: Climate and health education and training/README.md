@@ -32,7 +32,7 @@ Professor of Global Health and Climate Change, The University of Sydney<br>
 
 
 ## Brief description of the indicator
-This indicator builds on an international survey of degree-granting public health education institutions to assess the current state of climate and health education and training among them. To enable global participation and dissemination of the survey instruments, the Global 
+This indicator builds on an international survey of degree-granting nursing institutions to assess the current state of climate and health education and training among them. To enable global participation and dissemination of the survey instruments, the Global 
 Consortium on Climate and Health Education (GCCHE) partnered with multiple international, regional, and national nursing and health-education organisations, as well 
 as global nursing networks. This indicator monitors climate and health education in degree-granting health training institutions, with a focus on the number of nursing programmes offering climate and health education via a global survey conducted between October 15, 2025, and February 2, 2026, across 638 institutions in 87 countries.
 
