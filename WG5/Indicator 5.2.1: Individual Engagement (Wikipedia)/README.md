@@ -1,6 +1,6 @@
 ## Indicator Information
 
-- **Indicator Number:** 5.1
+- **Indicator Number:** 5.2
 - **Indicator Name:** Media Engagement with Health and Climate Change
 - **Working Group:** WG5
 
