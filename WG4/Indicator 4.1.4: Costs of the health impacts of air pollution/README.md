@@ -1,7 +1,7 @@
 ## Indicator Information
 
 - **Indicator Number:** 4.1.4
-- **Indicator Name:** Compatibility of fossil fuel company strategies with the Paris Agreement 
+- **Indicator Name:** Costs of the Health Impacts of Air Pollution 
 - **Working Group:** WG4
 
   ## Context
