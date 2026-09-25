@@ -2,7 +2,7 @@
 ## Indicator Information
 
 - **Indicator Number:** 4.3.3
-- **Indicator Name:** Costs of heat-related mortality
+- **Indicator Name:** Health Adaptation Finance Flows and Disclosed Needs
 - **Working Group:** WG4
 
   ## Context
@@ -16,32 +16,36 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstr
 
 ## Authors
 
-**Dr Shihui Zhang** <br>
-Assistant Professor<br>
- Renmin University of China<br>
-🔗 https://lancetcountdown.org/staff-member/shihui-zhang/<br>
-✉️ ritazhang9414@gmail.com
+**Dr Papa Orgen** <br>
+Research Fellow in Economics and Finance <br>
+Bartlett School Env, Energy & Resources<br>
+ University College London<br>
+🔗 https://profiles.ucl.ac.uk/99471-papa-orgen<br>
+✉️ p.orgen@ucl.ac.uk
 
-**Professor Wenjia Cai** <br>
-Professor, Department of Earth System Science, Tsinghua University<br>
-University of Sussex<br>
-🔗 http://faculty.dess.tsinghua.edu.cn/caiwenjia/en/index.htm<br>
-✉️ wcai@tsinghua.edu.cn
+**Prof. Nadia Ameli** <br>
+Professor of Climate Finance<br>
+Bartlett School Env, Energy & Resources<br>
+🔗 https://profiles.ucl.ac.uk/56283-nadia-ameli<br>
+✉️ n.ameli@ucl.ac.uk
 
-**Dr Zhao Liu** <br>
-Department of Earth System Science, Tsinghua University<br>
-✉️ liuzhaofairy@gmail.com
+**Dr Sabah Abdulla** <br>
+Senior Economist (Climate Change), Economic Analysis & Operational Support / Economic Research & Development Impact, ADB<br>
+🔗 https://blogs.adb.org/author/sabah-abdulla<br>
+✉️ sabdulla@adb.org
 
-**Dr Zhao Liu** <br>
-Department of Earth System Science, Tsinghua University<br>
-✉️ liuzhaofairy@gmail.com
+**Professor Anil Markandya** <br>
+Research Professor - Distinguished Ikerbasque Professor<br>
+BC3, The Basque Climate Change Research Centre<br>
+🔗 https://www.bc3research.org/en/people/staff/anil-markandya/<br>
+✉️ anil.markandya@bc3research.org
 
-**Dr Zhao Liu** <br>
-Department of Earth System Science, Tsinghua University<br>
-✉️ liuzhaofairy@gmail.com
+**Dr Ana-Catarina Pinho-Gomes** <br>
+Institute of Global Health, UCL<br>
+✉️ a.pinho-gomes@ucl.ac.uk
 
 ## Brief description of the indicator
-This indicator estimates the economic cost of heat-related mortality among adults aged 65 years and older by converting heat-attributable years of life lost (YLL) into monetary values. Heat-related deaths are estimated using temperature exposure–response relationships, age-specific mortality rates, population data, and standard life expectancy. Economic losses are valued using the OECD 2025 VSL/VSLY framework and reported as absolute costs in constant 2025 USD and relative to GDP.
+This indicator compares international finance for health adaptation with countries’ disclosed needs. Supply estimates combine bilateral climate finance commitments for health adaptation projects with financing from UN and other multilateral organizations, the World Bank, the Green Climate Fund (GCF), and private philanthropic organizations. These flows are compared with costed health adaptation needs reported by countries in official submissions to the UNFCCC. Monetary values are expressed in 2024 USD.
 
 ## Data Sources
 Please see the method folder for the data sources.
