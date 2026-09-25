@@ -29,7 +29,7 @@ Potsdam Institute for Climate Impact Research  <br>
 
 
 ## Brief description of the indicator
-This indicator identifies original research articles and research-related articles published from 1990 to 2025 that cover health and climate change topics using a machine-learning approach. This allowed for a more granular picture of the research landscape, including developments across major domains of research (mitigation, adaptation, impacts), the health impacts covered, locations studied, as well as patterns of authorship..
+Attributable effects are identified by linking studies on climate impacts with data from climate models and observational record. Attribution is based on human-attributable changes in temperature and precipitation, and the identified health impacts co-referenced  with geographical locations in the title or abstract. This indicator tracks **scientific literature on the health impacts of climate change**.
 
 ## Data Sources
 Please see the method folder for the data sources.
