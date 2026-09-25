@@ -41,7 +41,7 @@ IND-x.x.x-indicator-name/
 ├── README.md
 ├── methods/
 ├── code/
-└── additional-analysis/
+
 ```
 ## Contribution Workflow
 
