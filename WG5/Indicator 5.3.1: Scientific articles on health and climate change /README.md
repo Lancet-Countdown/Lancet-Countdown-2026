@@ -28,7 +28,7 @@ Potsdam Institute for Climate Impact Research  <br>
 
 
 ## Brief description of the indicator
-This indicator identifies original research articles and research-related articles published from 1990 to 2025 that cover health and climate change topics using a machine-learning approach. This allowed for a more granular picture of the research landscape, including developments across major domains of research (mitigation, adaptation, impacts), the health impacts covered, locations studied, as well as patterns of authorship..
+This indicator identifies original research articles and research-related articles published from 1990 to 2025 that cover health and climate change topics using a machine-learning approach. This allowed for a more granular picture of the research landscape, including developments across major domains of research (mitigation, adaptation, impacts), the health impacts covered, locations studied, as well as patterns of authorship.
 
 ## Data Sources
 Please see the method folder for the data sources.

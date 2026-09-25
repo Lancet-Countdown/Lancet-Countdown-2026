@@ -39,7 +39,7 @@ University of Newcastle, Australia<br>
 ✉️ richard.wood@newcastle.edu.au
 
 ## Brief description of the indicator
-This indicator incorporates temperature, humidity, and solar radiation restricting analysis to local sunlight hours only to estimate and track the daily hours per person during which undertaking outdoor physcial activity would pose a heightened heat stress risk. The indicator uses the updated 2024 Sports Medicine Australia Extreme Heat Policy, which applies the Predicted Heat Strain model (ISO 7933:2023) to estimate heat stress risk during brisk outdoor walking. Exposure is tracked at two levels: "any" risk (at least moderate), requiring additional rest breaks and active cooling, and "extreme" risk, at which physical activity should be avoided entirely.
+This indicator uses an environmentally-extended multi-region input-output (EEMRIO) model, linked to atmospheric transport modelling, to quantify countries’ consumption-based, production-based, and receptor-based contributions to PM2.5-related premature mortality. The EEMRIO analysis reflects production and consumption structures and interdependencies between economic sectors across regions, estimating PM2.5-related deaths embodied in international trade and atmospheric transport, and calculating national PM2.5 mortality from the consumption perspective.
 
 ## Data Sources
 Please see the method folder for the data sources.
