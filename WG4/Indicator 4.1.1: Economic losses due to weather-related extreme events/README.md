@@ -1,7 +1,7 @@
 ## Indicator Information
 
 - **Indicator Number:** 4.1.1
-- **Indicator Name:** Household energy use
+- **Indicator Name:** Economic Losses due to Climate-Related Extreme Events
 - **Working Group:** WG4
 
   ## Context
@@ -15,16 +15,15 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstr
 
 ## Authors
 **Daniel Scamman, PhD** <br>
-Senior Research Fellow<br>
-Imperial College London <br>
-WG3 Fellow, Lancet Countdown <br>
-🔗 https://profiles.ucl.ac.uk/54097-shihche-hsu <br>
-✉️ shih-che.hsu.15@ucl.ac.u
+WG4 Research Fellow, Lancet Countdown<br>
+Senior Research Associate, Bartlett School Env, Energy & Resources, University College London <br>
+🔗 https://profiles.ucl.ac.uk/56261-daniel-scamman <br>
+✉️ d.scamman@ucl.ac.uk
 
 
 
 ## Brief description of the indicator
-This indicator draws on data from the IEA extended global residential modelling to monitor the sources of energy used in people's homes, using WHO guidance to assess what fuels are "clean." The indicator is also underpinned by the national surveys collected by World Health Organization and tracks the proportion of the population who use clean fuels and technologies for cooking, defined as those that have emission rate targets meeting World Health Organization’s 2005 guidelines for air quality.
+This indicator tracks the total annual economic losses relative to gross domestic product that result from climate-related extreme events, referring to an event caused by natural forces , updated this year to incorporate data from the EM-DAT emergency events database. The scale of the losses resulting from a weather-related event depends not only on the severity, but also on man-made structures such as building design or the efficiency of the disaster response and control in the affected region.
 
 ## Data Sources
 Please see the method folder for the data sources.

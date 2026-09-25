@@ -1,7 +1,7 @@
 ## Indicator Information
 
 - **Indicator Number:** 5.4.1.2
-- **Indicator Name:** Scientific articles on health and climate change 
+- **Indicator Name:** Government Engagement (NDC)
 - **Working Group:** WG5
 
   ## Context
@@ -14,21 +14,16 @@ The Lancet, 2025; 406: 2804–2857.
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstract
 
 ## Authors
-**Dr Tim Repke** <br>
-Postdoctoral Researcher<br>
-Potsdam Institute for Climate Impact Research <br>
-🔗 https://www.pik-potsdam.de/members/timrepke/homepage<br>
-✉️ tim.repke@pik-potsdam.de
+**Dr Pete Lampard** <br>
+Research Fellow<br>
+University of York <br>
+🔗 https://www.york.ac.uk/health-sciences/people/pete-lampard/<br>
+✉️ pete.lampard@york.ac.uk
 
-**Prof Jan C. Minx** <br>
-Head of the Evidence for Climate Solutions Working Group <br>
-Potsdam Institute for Climate Impact Research  <br>
-🔗 https://www.pik-potsdam.de/members/minx/homepage<br>
-✉️ jan.minx@pik-potsdam.de
 
 
 ## Brief description of the indicator
-This indicator identifies original research articles and research-related articles published from 1990 to 2025 that cover health and climate change topics using a machine-learning approach. This allowed for a more granular picture of the research landscape, including developments across major domains of research (mitigation, adaptation, impacts), the health impacts covered, locations studied, as well as patterns of authorship..
+This indicator  tracks reference to health and climate change, as well as their prominence, in the text of all available Nationally Determined Contributions by Parties to the Paris Agreement (as of January 1st 2026).
 
 ## Data Sources
 Please see the method folder for the data sources.
