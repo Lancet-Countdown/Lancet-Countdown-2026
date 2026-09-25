@@ -14,32 +14,33 @@ The Lancet, 2025; 406: 2804–2857.
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstract
 
 ## Authors
-**Dr ** <br>
-Associate Professor of Planetary Behavioral Data Science at SODAS and the Department of Psychology <br>
-University of Copenhagen<br>
-🔗 https://sodas.ku.dk/people/<br>
-✉️ kmi@sodas.ku.dk
+**Professor Nick Watts** <br>
+Director, Centre for Sustainable Medicine <br>
+National University of Singapore<br>
+🔗 https://medicine.nus.edu.sg/cosm/team-member/professor-nick-watts/<br>
+✉️ n.watts@nus.edu.sg
 
-**Prof Zhifu Mi** <br>
-Associate Professor of Planetary Behavioral Data Science at SODAS and the Department of Psychology <br>
-University of Copenhagen<br>
-🔗 https://sodas.ku.dk/people/<br>
-✉️ kmi@sodas.ku.dk
+**Dr  Thomas Andrew** <br>
+Centre for Sustainable Medicine <br>
+National University of Singapore<br>
+🔗 https://medicine.nus.edu.sg/cosm/team-member/tom-andrew/<br>
+✉️ t.andrew@nus.edu.sg
 
-**Dr Fabian Wagner** <br>
-Associate Professor of Planetary Behavioral Data Science at SODAS and the Department of Psychology <br>
-University of Copenhagen<br>
-🔗 https://sodas.ku.dk/people/<br>
-✉️ kmi@sodas.ku.dk
+**Lydia Loh Hwee Teng** <br>
+Centre for Sustainable Medicine <br>
+National University of Singapore<br>
 
-**Prof Richard Wood** <br>
-Professor, School of Science <br>
-University of Newcastle, Australia<br>
-🔗 https://profiles.newcastle.edu.au/Richard-Wood<br>
-✉️ richard.wood@newcastle.edu.au
+**Associate Prof Chantelle Rizan** <br>
+Centre for Sustainable Medicine <br>
+National University of Singapore<br>
+🔗 https://medicine.nus.edu.sg/cosm/team-member/aprof-chantelle-rizan/<br>
+✉️ c.rizan@nus.edu.sg
 
 ## Brief description of the indicator
-This indicator incorporates temperature, humidity, and solar radiation restricting analysis to local sunlight hours only to estimate and track the daily hours per person during which undertaking outdoor physcial activity would pose a heightened heat stress risk. The indicator uses the updated 2024 Sports Medicine Australia Extreme Heat Policy, which applies the Predicted Heat Strain model (ISO 7933:2023) to estimate heat stress risk during brisk outdoor walking. Exposure is tracked at two levels: "any" risk (at least moderate), requiring additional rest breaks and active cooling, and "extreme" risk, at which physical activity should be avoided entirely.
+This indicator contains three sub-components which complement indicator 3.5.1 by assessing the extent to which three key actors in the health community are working to measure, disclose, and manage health sector emissions.                                                                                 These sub-components act as proxy measures for "effort" from the key enablers of health system decarbonisation: from governments, this focuses on the presence of a credible national baseline assessment; from the scientific community, it examines the proportion of pharmaceuticals and medical devices for which decision-ready carbon data is available; and from industry, the indicator assesses the presence of credible corporate commitments and transparent reporting. Across all sub-components, effort is classified as:
+"Established" when all quality criteria are met,
+"Progressing" when only some criteria are met or relevant work has been announced but not yet published, and
+"Limited" when there is limited or no evidence of quality measurement or effort.    
 
 ## Data Sources
 Please see the method folder for the data sources.
