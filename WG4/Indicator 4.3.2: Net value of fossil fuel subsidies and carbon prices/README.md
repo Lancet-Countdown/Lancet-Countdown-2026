@@ -1,7 +1,7 @@
 ## Indicator Information
 
-- **Indicator Number:** 4.1.2
-- **Indicator Name:** Costs of heat-related mortality
+- **Indicator Number:** 4.3.2
+- **Indicator Name:** Net Value of Fossil Fuel Subsidies and Carbon Prices
 - **Working Group:** WG4
 
   ## Context
@@ -15,16 +15,15 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstr
 
 ## Authors
 
-**Dr Shihui Zhang** <br>
-Assistant Professor<br>
- Renmin University of China<br>
-🔗 https://lancetcountdown.org/staff-member/shihui-zhang/<br>
-✉️ ritazhang9414@gmail.com
-
+**Daniel Scamman, PhD** <br>
+WG4 Research Fellow, Lancet Countdown<br>
+Senior Research Associate, Bartlett School Env, Energy & Resources, University College London <br>
+🔗 https://profiles.ucl.ac.uk/56261-daniel-scamman <br>
+✉️ d.scamman@ucl.ac.uk
 
 
 ## Brief description of the indicator
-This indicator estimates the economic cost of heat-related mortality among adults aged 65 years and older by converting heat-attributable years of life lost (YLL) into monetary values. Heat-related deaths are estimated using temperature exposure–response relationships, age-specific mortality rates, population data, and standard life expectancy. Economic losses are valued using the OECD 2025 VSL/VSLY framework and reported as absolute costs in constant 2025 USD and relative to GDP.
+This indicator calculates net, economy-wide average carbon prices and associated net carbon revenue to the government. The calculations are based on the value of overall fossil fuel subsidies (taking into account both budgetary transfers and tax expenditures), the revenue from carbon pricing mechanisms, and the total CO2 emissions of the economy. Positive results indicate a net tax on CO2 emissions, while negative results indicate a net subsidy for fossil fuels.
 
 ## Data Sources
 Please see the method folder for the data sources.
