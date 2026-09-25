@@ -1,7 +1,7 @@
 ## Indicator Information
 
 - **Indicator Number:** 4.1.3
-- **Indicator Name:** 
+- **Indicator Name:** Loss of Earnings from Heat-Related Labour Capacity Reduction
 - **Working Group:** WG4
 
   ## Context
@@ -14,26 +14,16 @@ The Lancet, 2025; 406: 2804–2857.
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstract
 
 ## Authors
-**Shih-Che Hsu, PhD** <br>
+**Daniel Scamman, PhD** <br>
 Senior Research Fellow<br>
 Imperial College London <br>
 WG3 Fellow, Lancet Countdown <br>
 🔗 https://profiles.ucl.ac.uk/54097-shihche-hsu <br>
-✉️ shih-che.hsu.15@ucl.ac.uk
-
-**Chris Freyberg** <br>
-Chair in Planetary Health and Director of Global Planetary Health Programme <br>
-WG3 Chair, Lancet Countdown, Imperial College London <br>
-🔗 https://profiles.ucl.ac.uk/7405-ian-hamilton<br>
-✉️ i.hamilton@imperial.ac.uk
-
-
-
-
-
+✉️ shih-che.hsu.15@ucl.ac.u
 
 ## Brief description of the indicator
-This indicator draws on data from the IEA extended global residential modelling to monitor the sources of energy used in people's homes, using WHO guidance to assess what fuels are "clean." The indicator is also underpinned by the national surveys collected by World Health Organization and tracks the proportion of the population who use clean fuels and technologies for cooking, defined as those that have emission rate targets meeting World Health Organization’s 2005 guidelines for air quality.
+This indicator combines data from indicator 1.1.3 on heat-related labour capacity loss, in terms of work hours lost (WHLs), at country scale across four sectors (services, manufacturing, construction, and agriculture) with data on average earnings per hour per country, sector, and year. The total potential lost earnings are expressed as a percentage of the country's GDP in each relevant year. GDP per capita was added as a comparator metric for identifying suitable wage 
+substitutes. 
 
 ## Data Sources
 Please see the method folder for the data sources.
