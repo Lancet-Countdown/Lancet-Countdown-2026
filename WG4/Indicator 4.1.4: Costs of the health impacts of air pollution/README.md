@@ -20,9 +20,14 @@ Senior Research Associate, Bartlett School Env, Energy & Resources, University C
 🔗 https://profiles.ucl.ac.uk/56261-daniel-scamman <br>
 ✉️ d.scamman@ucl.ac.uk
 
+**Gregor Kiesewetter, PhD** <br>
+Senior Research Scholar, Pollution Management Research Group, Energy, Climate, and Environment Program <br>
+International Institute for Applied Systems Analysis (IIASA) <br>
+🔗 https://iiasa.ac.at/staff/gregor-kiesewetter <br>
+✉️ kiesewet@iiasa.ac.at
 
 ## Brief description of the indicator
-The indicator tracks the gap between the projected production of oil and gas companies based on their actual activities, and production trajectories consistent with the Paris target of  1.5°C of heating. The indicator is expressed as a percentage of the projected production of each company is above or below a pathway consistent with the Paris targets. The indicator analyses both international, publicly traded oil companies and national oil companies, which in many cases have larger production volumes than IOCs but are subject to less public or shareholder scrutiny.
+This indicator estimates the change in Years of Life Lost (YLL) due to anthropogenic PM2.5 for 140 countries for each year between 2007 and 2023. It combines data from indicator 3.2.1 and the value of statistical life-year (VSLY) estimated for the member countries of the Organisation for Economic Cooperation and Development  using a fixed ratio of the value of VSLY to gross domestic product (gross domestic product) per capita. The value of mortality is presented as proportion of total gross domestic product, and as number of peoples’ incomes the loss would be equivalent to in a given country and region, and as a dollar amount at global level.
 
 ## Data Sources
 Please see the method folder for the data sources.
