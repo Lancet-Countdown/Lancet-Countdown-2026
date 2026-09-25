@@ -7,23 +7,25 @@ Indicator 1.1.3 provides estimates of heat-related labour capacity loss, measure
 - Construction
 - Agriculture
 
-The estimates cover **1990–2025**. To estimate the potential loss of earnings associated with these lost work hours, average hourly earnings were compiled for each country, sector and year. :contentReference[oaicite:0]{index=0}
+The estimates cover **1990–2025**. To estimate the potential loss of earnings associated with these lost work hours, average hourly earnings were compiled for each country, sector and year.
 
 ## Earnings data
 
 Earnings data were obtained from **ILOSTAT Statistics on Wages**, maintained by the International Labour Organization.
 
-No single ILOSTAT earnings indicator provided complete coverage across all required countries, sectors and years. Multiple indicators were therefore combined to maximise data coverage. The three main indicator sets used were:
+No single ILOSTAT earnings indicator provided complete coverage across all required countries, sectors and years. Multiple indicators were therefore combined to maximise data coverage.
+
+The three main indicator sets used were:
 
 - Mean nominal monthly earnings of employees by sex and economic activity, annual
 - Mean nominal monthly earnings of employees by sex and occupation, annual
-- Mean nominal hourly earnings of employees by sex and occupation, annual :contentReference[oaicite:1]{index=1}
+- Mean nominal hourly earnings of employees by sex and occupation, annual
 
 Within each indicator set, employment activities that most closely represented the four required sectors were selected.
 
 Where several classifications were available, including different versions of ISCO and ISIC, the most appropriate available category was used according to a predefined order of preference.
 
-Both US dollar and local currency values were considered. US dollar values were preferred, but local currency values were also used where they provided additional observations. :contentReference[oaicite:2]{index=2}
+Both US dollar and local currency values were considered. US dollar values were preferred, but local currency values were also used where they provided additional observations.
 
 ## Sector definitions
 
@@ -51,7 +53,7 @@ The indicators, classifications and currencies were applied in a predefined orde
 
 For each country, year and sector, the preferred indicator was used where data were available.
 
-If no observation was available, the next indicator in the preference order was checked. This process continued until a value was identified or all available indicator combinations had been exhausted. :contentReference[oaicite:3]{index=3}
+If no observation was available, the next indicator in the preference order was checked. This process continued until a value was identified or all available indicator combinations had been exhausted.
 
 ## Conversion to hourly earnings
 
@@ -63,7 +65,7 @@ Monthly earnings were converted to hourly earnings using an assumed working sche
 
 Nominal local currency values were converted to nominal US dollars using market exchange rates from the **IMF International Financial Statistics**.
 
-Nominal US dollar earnings were then converted to **constant 2025 US dollars** using the US dollar Consumer Price Index from the **IMF World Economic Outlook database**. :contentReference[oaicite:4]{index=4}
+Nominal US dollar earnings were then converted to **constant 2025 US dollars** using the US dollar Consumer Price Index from the **IMF World Economic Outlook database**.
 
 ## Gap filling
 
@@ -71,7 +73,7 @@ Despite using multiple ILOSTAT indicators and classifications, approximately two
 
 A small number of clearly implausible observations were also identified, including hourly earnings values several orders of magnitude too high.
 
-After all earnings data had been converted to constant 2025 US dollars, missing or clearly erroneous values were replaced using a structured gap-filling process. :contentReference[oaicite:5]{index=5}
+After all earnings data had been converted to constant 2025 US dollars, missing or clearly erroneous values were replaced using a structured gap-filling process.
 
 The following approaches were used in order of preference:
 
@@ -89,7 +91,7 @@ Comparable countries were selected primarily according to:
 - population size
 - availability of earnings observations
 
-Where relevant, substitute-country selections were checked with regional experts. :contentReference[oaicite:6]{index=6}
+Where relevant, substitute-country selections were checked with regional experts.
 
 ## Potential earnings lost
 
@@ -101,7 +103,7 @@ For agriculture and construction, the work hours lost estimates assume that work
 
 This calculation provides an estimate of **potential earnings lost due to heat-related labour capacity loss**.
 
-Wage-loss estimates were available for **216 countries in 2025**. :contentReference[oaicite:7]{index=7}
+Wage-loss estimates were available for **216 countries in 2025**.
 
 ## Earnings losses relative to GDP
 
@@ -117,7 +119,7 @@ Results are also aggregated and presented by:
 
 - Human Development Index group
 - WHO region
-- Lancet Countdown region :contentReference[oaicite:8]{index=8}
+- Lancet Countdown region
 
 # Data
 
@@ -128,7 +130,7 @@ The indicator uses the following data sources:
 - **Exchange rates:** IMF International Financial Statistics
 - **US dollar CPI, GDP deflator and country GDP:** IMF World Economic Outlook database
 - **Country GDP and GDP per capita:** World Bank World Development Indicators
-- **World Bank Income Groups:** World Bank Country and Lending Groups :contentReference[oaicite:9]{index=9}
+- **World Bank Income Groups:** World Bank Country and Lending Groups
 
 # Caveats and Limitations
 
@@ -140,12 +142,18 @@ Several combinations of ILOSTAT indicators and activity classifications were req
 
 Monthly earnings were converted to hourly earnings using a standard assumption of **4.33 weeks per month and 40 working hours per week**. Actual monthly working hours vary between countries and employment sectors.
 
-Results for individual countries should therefore be interpreted with caution. :contentReference[oaicite:10]{index=10}
+Results for individual countries should therefore be interpreted with caution.
 
 The estimates represent **potential earnings lost**, rather than observed actual earnings losses.
 
-The indicator does not establish whether workers actually stopped working because of heat. Where work was lost, the economic cost may also have been borne differently across settings. For example, workers receiving sick pay may retain their income while employers bear the cost of non-productive working time, whereas workers without such arrangements may experience a direct loss of earnings. :contentReference[oaicite:11]{index=11}
+The indicator does not establish whether workers actually stopped working because of heat. Where work was lost, the economic cost may also have been borne differently across settings. For example, workers receiving sick pay may retain their income while employers bear the cost of non-productive working time, whereas workers without such arrangements may experience a direct loss of earnings.
 
 Finally, the indicator covers potential earnings losses in **formal paid employment**.
 
-Informal and unpaid work, including domestic work and small-scale agriculture, can represent an important share of labour in many countries but is not captured. Heat-related effects on productivity and health in these sectors would therefore be additional to the monetised losses estimated by this indicator. :contentReference[oaicite:12]{index=12}
+Informal and unpaid work, including domestic work and small-scale agriculture, can represent an important share of labour in many countries but is not captured. Heat-related effects on productivity and health in these sectors would therefore be additional to the monetised losses estimated by this indicator.
+
+The indicator does not establish whether workers actually stopped working because of heat. Where work was lost, the economic cost may also have been borne differently across settings. For example, workers receiving sick pay may retain their income while employers bear the cost of non-productive working time, whereas workers without such arrangements may experience a direct loss of earnings.
+
+Finally, the indicator covers potential earnings losses in **formal paid employment**.
+
+Informal and unpaid work, including domestic work and small-scale agriculture, can represent an important share of labour in many countries but is not captured. Heat-related effects on productivity and health in these sectors would therefore be additional to the monetised losses estimated by this indicator. 
