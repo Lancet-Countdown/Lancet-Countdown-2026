@@ -26,8 +26,6 @@ Authors should use this folder to store:
 
 - **Code** used for analysis  
 - **Methods** and documentation  
-- **Additional analyses** beyond the main report  
-- **Figures and tables** generated for the indicator  
 - Supporting data (where appropriate)  
 
 ---
@@ -41,7 +39,7 @@ IND-x.x.x-indicator-name/
 ├── README.md
 ├── methods/
 ├── code/
-└── additional-analysis/
+
 ```
 ## Contribution Workflow
 
