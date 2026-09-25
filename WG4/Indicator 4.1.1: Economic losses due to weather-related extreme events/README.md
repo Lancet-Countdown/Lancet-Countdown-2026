@@ -15,11 +15,10 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstr
 
 ## Authors
 **Daniel Scamman, PhD** <br>
-Senior Research Fellow<br>
-Imperial College London <br>
-WG3 Fellow, Lancet Countdown <br>
-🔗 https://profiles.ucl.ac.uk/54097-shihche-hsu <br>
-✉️ shih-che.hsu.15@ucl.ac.u
+WG4 Research Fellow, Lancet Countdown<br>
+Senior Research Associate, Bartlett School Env, Energy & Resources, University College London <br>
+🔗 https://profiles.ucl.ac.uk/56261-daniel-scamman <br>
+✉️ d.scamman@ucl.ac.uk
 
 
 
