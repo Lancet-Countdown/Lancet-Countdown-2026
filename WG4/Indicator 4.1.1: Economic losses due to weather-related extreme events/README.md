@@ -1,7 +1,7 @@
 ## Indicator Information
 
 - **Indicator Number:** 4.1.1
-- **Indicator Name:** Household energy use
+- **Indicator Name:** Economic Losses due to Climate-Related Extreme Events
 - **Working Group:** WG4
 
   ## Context
