@@ -14,21 +14,21 @@ The Lancet, 2025; 406: 2804–2857.
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstract
 
 ## Authors
-** Professor Travis G. Coan** <br>
+**Professor Travis G. Coan** <br>
  Professor in Computational Social Science <br>
  Co-director of the Centre for Climate Communication and Data Science (C3DS) <br>
 University of Exeter <br>
 🔗 https://experts.exeter.ac.uk/23964-travis-coan <br>
 ✉️ T.Coan@exeter.ac.uk
 
-** Ranadheer Malla** <br>
+**Ranadheer Malla** <br>
  Doctoral student in Advanced Quantitative Methods <br>
  Centre for Climate Communication and Data Science (C3DS) <br>
 University of Exeter <br>
 🔗 https://c3ds.ex.ac.uk/#people <br>
 ✉️ rm729@exeter.ac.uk
 
-** Prof. Saffron O’Neill** <br>
+**Prof. Saffron O’Neill** <br>
  Professor in Geography <br>
  Department of Geography <br>
 University of Exeter <br>

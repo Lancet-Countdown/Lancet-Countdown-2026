@@ -1,7 +1,7 @@
 ## Indicator Information
 
 - **Indicator Number:** 5.6
-- **Indicator Name:** Scientific articles on health and climate change 
+- **Indicator Name:**Corporate engagement with health and climate change  
 - **Working Group:** WG5
 
   ## Context
@@ -14,21 +14,17 @@ The Lancet, 2025; 406: 2804–2857.
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstract
 
 ## Authors
-**Dr Tim Repke** <br>
-Postdoctoral Researcher<br>
-Potsdam Institute for Climate Impact Research <br>
-🔗 https://www.pik-potsdam.de/members/timrepke/homepage<br>
-✉️ tim.repke@pik-potsdam.de
+**Dr Hannah Bechara** <br>
+Hertie School’s Data Science lab <br>
+✉️ hjbechara@googlemail.com
 
-**Prof Jan C. Minx** <br>
-Head of the Evidence for Climate Solutions Working Group <br>
-Potsdam Institute for Climate Impact Research  <br>
-🔗 https://www.pik-potsdam.de/members/minx/homepage<br>
-✉️ jan.minx@pik-potsdam.de
+**Krishnamoorthy Manohara** <br>
+Hertie School’s Data Science lab <br>
+✉️ krishnam3103@gmail.com
 
 
 ## Brief description of the indicator
-This indicator identifies original research articles and research-related articles published from 1990 to 2025 that cover health and climate change topics using a machine-learning approach. This allowed for a more granular picture of the research landscape, including developments across major domains of research (mitigation, adaptation, impacts), the health impacts covered, locations studied, as well as patterns of authorship..
+This indicator monitors engagement on health and climate change from the over 25,000 companies from 167 countries who signed up to the UNGC by tracking mentions of health and climate change in their annual Global Compact Communication of Progress (GCCOP) reports. This indicator uses natural language processing to perform a keyword-in-context search across 12,010 GCCoP reports between 2016 and 2025, in 36 different languages.
 
 ## Data Sources
 Please see the method folder for the data sources.
