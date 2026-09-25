@@ -24,7 +24,7 @@ WG3 Fellow, Lancet Countdown <br>
 
 
 ## Brief description of the indicator
-This indicator draws on data from the IEA extended global residential modelling to monitor the sources of energy used in people's homes, using WHO guidance to assess what fuels are "clean." The indicator is also underpinned by the national surveys collected by World Health Organization and tracks the proportion of the population who use clean fuels and technologies for cooking, defined as those that have emission rate targets meeting World Health Organization’s 2005 guidelines for air quality.
+This indicator tracks the total annual economic losses relative to gross domestic product that result from climate-related extreme events, referring to an event caused by natural forces , updated this year to incorporate data from the EM-DAT emergency events database. The scale of the losses resulting from a weather-related event depends not only on the severity, but also on man-made structures such as building design or the efficiency of the disaster response and control in the affected region.
 
 ## Data Sources
 Please see the method folder for the data sources.
