@@ -15,22 +15,22 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstr
 
 ## Authors
 **Dr Kehan He** <br>
-Associate Professor of Planetary Behavioral Data Science at SODAS and the Department of Psychology <br>
-University of Copenhagen<br>
-🔗 https://sodas.ku.dk/people/<br>
-✉️ kmi@sodas.ku.dk
+ICCN Postdoctoral Fellow<br>
+The University of Hong Kong<br>
+🔗 https://iccn.hku.hk/about<br>
+✉️ hekehan@hku.hk
 
 **Prof Zhifu Mi** <br>
-Associate Professor of Planetary Behavioral Data Science at SODAS and the Department of Psychology <br>
-University of Copenhagen<br>
-🔗 https://sodas.ku.dk/people/<br>
-✉️ kmi@sodas.ku.dk
+Professor of Climate Change Economics, The Bartlett School of Sustainable Construction <br>
+University College London<br>
+🔗 https://profiles.ucl.ac.uk/64212-zhifu-mi<br>
+✉️ z.mi@ucl.ac.uk
 
 **Dr Fabian Wagner** <br>
-Associate Professor of Planetary Behavioral Data Science at SODAS and the Department of Psychology <br>
-University of Copenhagen<br>
-🔗 https://sodas.ku.dk/people/<br>
-✉️ kmi@sodas.ku.dk
+CDAT Dean and Principal Research Scholar <br>
+The International Institute for Applied Systems Analysis (IIASA)<br>
+🔗 https://iiasa.ac.at/staff/fabian-wagner<br>
+✉️ wagnerf@iiasa.ac.at
 
 **Prof Richard Wood** <br>
 Professor, School of Science <br>
