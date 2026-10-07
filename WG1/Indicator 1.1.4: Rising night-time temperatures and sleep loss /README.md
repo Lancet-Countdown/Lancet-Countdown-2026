@@ -23,7 +23,7 @@ University of Copenhagen<br>
 
 
 ## Brief description of the indicator
-This indicator tracks the relationship between human sleep and warmer night-time temperatures. It employs estimates from a multi-country sleep study that measures over ten billion sleep observations from fitness bands between 2015–2017. The indicator estimates percentage change in annual total number of hours of sleep lost globally due to warmer than optimal nighttime tempertature relative to the 1986-2005 baseline average. 
+This indicator tracks the impact of warmer night-time temperatures on human sleep. It employs estimates from a multi-country sleep study (Minor et al., 2022) that measures over ten billion sleep observations from fitness bands between 2015–2017. The indicator estimates both the average sleep hours lost per person per year attributable to warmer than optimal nighttime temperatures, and the percentage change in this value relative to the 1986-2005 baseline average.
 
 ## Data Sources
 Please see the method folder for the data sources.
