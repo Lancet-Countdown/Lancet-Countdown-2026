@@ -16,8 +16,9 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstr
 ## Authors
 
 **Dr Diarmid Campbell-Lendrumn** <br>
-Head of the climate change and health unit at WHO Headquarters<br>
-🔗 https://wmo.int/profile/diarmid-campbell-lendrum<br>
+Unit Head, Climate Change, Air Quality, Energy and Health<br>
+Department of Environment, Climate Change, One Health and Migration at the World Health Organization (WHO)<br>
+🔗https://lancetcountdown.org/staff-member/diarmid-campbell-lendrum<br>
 ✉️ campbelllendrumd@who.int
 
 **Yasna Palmeiro-Silva, PhD** <br>
@@ -34,7 +35,7 @@ World Health Organization (WHO)<br>
 
 
 ## Brief description of the indicator
-This indicator monitors the implementation of the International Health Regulation core capacities on health emergency management tracked through the World Health Organization annual monitoring questionnaire. The survey is a checklist of 20 indicators specifically developed to monitor the development and implementation of 13 IHR capacities.This indicator assesses IHR Capacity 7: health emergency management and IHR Capacity 3.2: financing for public health emergency response, using data from the World Health Organization annual monitoring questionnaire. The survey assesses the development and implementation of IHR core capacities, with scores calculated as the proportion of reported attributes in place in each country.
+This indicator illustrates country health emergency management capacities as self-assessed by countries annually for their report on the implementation of the International Health Regulation. The indicator use data from the WHO State Parties annual reporting tool (SPAR), related to IHR Capacity 7: Health Emergency Management (3 IHR Capacities) and IHR Capacity 3.2: Financing for Public Health Emergency Response. The time series of reports enable a review of progress in the development and implementation of IHR core capacities, with scores calculated each year according to the SPAR methodology.
 
 ## Data Sources
 Please see the method folder for the data sources.
