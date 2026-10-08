@@ -15,16 +15,19 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstr
 
 ## Authors
 **Dr Diarmid Campbell-Lendrumn** <br>
-Head of the climate change and health unit at WHO Headquarters<br>
-🔗 https://wmo.int/profile/diarmid-campbell-lendrum<br>
+Unit Head, Climate Change, Air Quality, Energy and Health<br>
+Department of Environment, Climate Change, One Health and Migration at the World Health Organization (WHO)<br>
+🔗https://lancetcountdown.org/staff-member/diarmid-campbell-lendrum<br>
 ✉️ campbelllendrumd@who.int
 
 **Hyunju Lee** <br>
-(Department of Environment, Climate Change, One Health and Migration), WHO<br>
+Technical Officer<br>
+Department of Environment, Climate Change, One Health and Migration at the World Health Organization (WHO)<br>
 ✉️ leehy@who.int
 
 **Christian Schweizer** <br>
-World Health Organization (WHO)<br>
+Scientist<br>
+Department of Environment, Climate Change, One Health and Migration at the World Health Organization (WHO)<br>
 ✉️ schweizerc@who.int
 
 
