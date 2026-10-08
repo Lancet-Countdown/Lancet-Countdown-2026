@@ -23,7 +23,7 @@ Further information on ATACH is available here:
 
 The **2025 WHO Health and Climate Change Global Survey** provides complementary data across WHO member states.
 
-There are **194 member states and territories**. As of September 2025, there were **146 responses** to the survey, including **145 WHO member states and the occupied Palestinian territory**, which is a member of ATACH but not a WHO member state.
+There are **194 member states and territories**. As of September 2025, there were **146 responses** to the survey, including **145 WHO member states and the occupied Palestinian territory**, which is a member of ATACH but not a WHO member state. 
 
 Unlike the ATACH tracker, the survey captures whether countries have **ever completed a HNAP**, regardless of when it was developed. It is therefore a cumulative measure rather than one restricted to the post-2020 period.
 
