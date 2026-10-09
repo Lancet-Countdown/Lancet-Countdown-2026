@@ -1,7 +1,11 @@
 # Code
 
-The analytical code for this indicator is currently being prepared and will be updated in this folder. All survey data were cleaned and analysed in **R version 4.4.2**.
+The analytical code used for the nursing component of this indicator is available here:
 
-The code will include the main processing steps used to prepare the data and generate the indicator results.
+[**2026_lancet_nursing_code.R**](./2026_lancet_nursing_code.R)
+
+All survey data were cleaned and analysed in **R version 4.4.2**.
 
 The corresponding data files are available through the **Lancet Countdown Data Explorer**.
+
+
