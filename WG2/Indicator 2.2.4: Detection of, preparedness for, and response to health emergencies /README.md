@@ -26,11 +26,13 @@ Department of Global Health, University of Washington<br>
 ✉️ palmeiro@uw.edu
 
 **Hyunju Lee** <br>
-(Department of Environment, Climate Change, One Health and Migration), WHO<br>
+Technical Officer<br>
+Department of Environment, Climate Change, One Health and Migration at the World Health Organization (WHO)<br>
 ✉️ leehy@who.int
 
 **Christian Schweizer** <br>
-World Health Organization (WHO)<br>
+Scientist<br>
+Department of Environment, Climate Change, One Health and Migration at the World Health Organization (WHO)<br>
 ✉️ schweizerc@who.int
 
 
