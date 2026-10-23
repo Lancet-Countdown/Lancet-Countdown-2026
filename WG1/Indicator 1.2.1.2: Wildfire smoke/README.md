@@ -8,10 +8,7 @@
 
 This indicator was developed for the *2026 Lancet Countdown on Health and Climate Change* report:
 
-Romanello M, Walawender M, Hsu S, et al.  
-*The 2025 report of the Lancet Countdown on health and climate change: climate change action offers a lifeline.*  
-The Lancet, 2025; 406: 2804–2857.  
-https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01919-1/abstract
+Romanello M, Walawender M, Israelsson J, et al. The 2026 report of the Lancet Countdown on health and climate change: A decade of escalating health harms and a decisive moment for all. *The Lancet*. 2026; published online October 2026. [https://doi.org/10.1016/S0140-6736(26)01779-4](https://doi.org/10.1016/S0140-6736(26)01779-4)
 
 ## Authors
 **Dr Risto Hänninen** <br>
