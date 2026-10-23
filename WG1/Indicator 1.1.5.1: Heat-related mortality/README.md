@@ -29,7 +29,7 @@ Barcelona Institute for Global Health (ISGlobal) <br>
 ✉️  jorge.ruiz@isglobal.org
 
 ## Brief description of the indicator
-This indicator monitors heat-related mortality using a newly-developed model framework built on a mortality database covering 120 countries. State-of-the-art meta-prediction models estimate the temperature-mortality association for all countries globally,  combined with yearly mortality estimates from the Global Burden of Disease, producing the most comprehensive global estimate of heat-related mortality yet.
+This indicator monitors heat-related mortality using a newly-developed model framework built on a mortality database covering 129 countries. State-of-the-art meta-prediction models estimate the temperature-mortality association for all countries globally, combined with yearly mortality estimates from the Global Burden of Disease, producing the most comprehensive global estimate of heat-related mortality yet.
 
 ## Data Sources
 Please see the method folder for the data sources.
