@@ -81,11 +81,11 @@ See the `LICENSE` file for details.
 For questions or support, please contact:
 
 - **Dr Muhammad Mahmudul Hasan**  
-  Global Research Fellow, Lancet Countdown  
+   Research Fellow, Lancet Countdown on Health and Climate Change
   Institute for Global Health (IGH), University College London (UCL)
 
 - **Professor Marina Romanello**  
-  Executive Director, Lancet Countdown  
+  Executive Director, Lancet Countdown on Health and Climate Change 
   Institute for Global Health (IGH), University College London (UCL)
 
 ---
