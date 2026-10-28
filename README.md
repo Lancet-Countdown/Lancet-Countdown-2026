@@ -22,7 +22,7 @@ Our work:
 - Identifies health risks and opportunities linked to climate change  
 - Highlights the health co-benefits of climate mitigation and adaptation  
 
-The 2025 Global Report of the Lancet Countdown represents the work of 128 experts from 71 institutions, monitoring progress across 57 indicators.  
+The 2026 Global Report of the Lancet Countdown represents the work of 146 experts from 71 institutions, monitoring progress across 54 indicators.  
 Our global report has been published in *The Lancet* annually since 2016. 
 
 ---
